@@ -9,7 +9,7 @@
 
 <!-- Web Dev Banner before About Me -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=220&section=header&text=Web%20Developer%20in%20Action&fontSize=40&fontColor=ffffff&animation=blurIn" alt="Web Developer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=220&section=header&text=Crafting%20Digital%20Experiences%20with%20Code&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Web Developer Banner"/>
 </p>
 
 ---
@@ -65,12 +65,18 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:gopidhanush615@gmail.com"><img src="https://img.shields.io/badge/Gmail-gopidhanush615-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dhanush-gopi-kavala-a460a528b/"><img src="https://img.shields.io/badge/LinkedIn-Dhanush_Gopi_Kavala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:gopidhanush615@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-gopidhanush615-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dhanushgopi2456">
+    <img src="https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhanush-gopi-kavala-a460a528b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhanush_Gopi_Kavala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
