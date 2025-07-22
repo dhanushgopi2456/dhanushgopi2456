@@ -41,7 +41,7 @@ Here are some of the certifications I've earned:
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔗 [Online Stall Booking System](https://github.com/dhanushgopi2456/Online_Stall_Booking) | Full-stack app to manage stall bookings for events | React, Java, MySQL |
+| 🔗 [Online Stall Booking System]([https://github.com/dhanushgopi2456/Online_Stall_Booking](https://github.com/dhanushgopi2456/Online_Stall_Booking)) | Full-stack app to manage stall bookings for events | React, Java, MySQL |
 | 🔗 [Object Detection System](https://github.com/dhanushgopi2456/Object-Detection) | YOLO-based system for detecting multiple objects in images | Python, OpenCV, YOLOv8 |
 | 🔗 [Employee Management System](https://github.com/dhanushgopi2456/Employee-Management) | Web app to manage employee records | JSP, Java, MySQL |
 | 🔗 [Vehicle Management System](https://github.com/dhanushgopi2456/Vehicle_management) | Vehicle data tracking & CRUD system | Servlet, JSP, DB |
