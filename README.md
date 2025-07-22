@@ -69,7 +69,7 @@ Here are some of the certifications I've earned:
 
 ## 📫 Connect With Me
 
-- 📧 Email: dhanushgopi2456@gmail.com  
+- 📧 Email: gopidhanush615@gmail.com
 - 💼 [LinkedIn – Dhanush Gopi Kavala](https://www.linkedin.com/in/dhanush-gopi-kavala-a460a528b/)  
 - 💻 [GitHub – dhanushgopi2456](https://github.com/dhanushgopi2456)
 
