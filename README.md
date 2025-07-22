@@ -56,7 +56,6 @@
 </p>
 
 ---
----
 ## 🎯 Interests
 
 - 💡 Artificial Intelligence & Machine Learning  
