@@ -12,7 +12,7 @@
 ## 🌟 About Me
 
 - 🎓 **B.Tech CSE Student**
-- 🤖 Completed [AI-ML Virtual Internship (Google + AICTE + Eduskills)](https://github.com/dhanushgopi2456)
+- 🤖 Completed [AI-ML Virtual Internship (Google + AICTE + Eduskills)](https://github.com/dhanushgopi2456/My_Certifications)
 - 💻 Passionate about building intelligent and scalable web applications
 - 📘 Skilled in Python, Java, React, MySQL, and AI/ML libraries
 - 🎯 Currently working on full-stack and data analysis projects
@@ -23,10 +23,10 @@
 
 Here are some of the certifications I've earned:
 
+- ☁️ [Microsoft Azure AI Fundamentals](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)
 - 🎓 [AI-ML Virtual Internship – Google + AICTE + Eduskills](https://github.com/dhanushgopi2456/AI-ML_Virtual_Internship_Certificate/blob/main/DhanushGopi_AI-ML_Internship.pdf)
-- ☁️ [Microsoft Azure AI Fundamentals](https://github.com/dhanushgopi2456/Azure_AI_Fundamentals_Certificate/blob/main/DhanushGopi_AzureAI_Fundamentals.pdf)
-- 🧮 [Data Analysis using Python – Eduskills](https://github.com/dhanushgopi2456/Data_Analysis_using_python/blob/main/certificates/python_data_analysis_cert.pdf)
-- 🖥️ [GitHub Workshop Completion](https://github.com/dhanushgopi2456/GitHub_Workshop_Certificate/blob/main/DhanushGopi_GitHub_Workshop.pdf)
+- 🧮 [Data Analysis using Python – Eduskills](https://github.com/dhanushgopi2456/Data_Analysis_using_python)
+- 🖥️ [Web Based Technology and Multimedia Applications](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Web%20based%20technologies%20and%20Multimedia%20applications%20Certificate%20by%20Swayam%20IGNOU.pdf)
 
 
 ## 🚀 Tech Stack
