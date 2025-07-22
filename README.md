@@ -26,15 +26,6 @@
 - 💻 Skilled in **Python**, **Java**, **React**, **MySQL**, **AI/ML**, and full-stack engineering
 - 🔭 Passionate about building intelligent, scalable applications and data-driven solutions
 
----
-
-## 🕹️ Web Dev Game GIF
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dhanushgopi2456/dhanushgopi2456/main/game-dev.gif" alt="Web Developer Game GIF" width="350px" />
-</p>
-
----
 
 ## 🧠 Projects I’ve Built
 
