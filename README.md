@@ -65,22 +65,23 @@
 
 ---
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:gopidhanush615@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-gopidhanush615-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:gopidhanush615@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-gopidhanush615@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://github.com/dhanushgopi2456">
-    <img src="https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/dhanushgopi2456" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/dhanush-gopi-kavala-a460a528b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhanush_Gopi_Kavala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/dhanush-gopi-kavala-a460a528b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhanush%20Gopi%20Kavala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhanushgopi2456&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
