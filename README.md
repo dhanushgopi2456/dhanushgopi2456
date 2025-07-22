@@ -12,7 +12,7 @@
 ## 🌟 About Me
 
 - 🎓 **B.Tech CSE Student**
-- 🤖 Completed [Azure AI Fundamentals And Other Some Certifications](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)
+- 🤖 Completed [Azure AI Fundamentals And Other Some Certifications](https://github.com/dhanushgopi2456/My_Certifications)
 - 💻 Passionate about building intelligent and scalable web applications
 - 📘 Skilled in Python, Java, React, MySQL, and AI/ML libraries
 - 🎯 Currently working on full-stack and data analysis projects
