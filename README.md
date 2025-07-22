@@ -1,80 +1,64 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f62fe&height=250&section=header&text=Dhanush%20Gopi%20Kavala&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="Dhanush Gopi Banner"/>
+  <img src="https://raw.githubusercontent.com/dhanushgopi2456/dhanushgopi2456/main/banner.png" alt="Dhanush Gopi Banner" width="100%" />
 </p>
 
-<!-- Typing SVG -->
+<!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&color=00C9FF&width=600&lines=Aspiring+Software+Developer;AI+%7C+ML+%7C+Web+%7C+Data+Driven+Projects;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&color=4A90E2&width=600&lines=I+build+software+that+solves+real+problems;AI+%7C+ML+%7C+Web+%7C+Data+Driven+Projects;Always+Learning+%F0%9F%93%9A" alt="Typing SVG">
 </p>
 
----
+## 👋 Hey, I'm Dhanush Gopi Kavala
 
-### 👨‍💻 About Me
-
-- 🎓 I'm **Dhanush Gopi Kavala**
-- 🧠 Passionate about **AI/ML**, **Full Stack Development**, and **Data-Driven Solutions**
-- 🌱 Always curious and open to learning new things
-- 🎯 Focused on real-world problem solving with tech
+A passionate full-stack developer and AI/ML enthusiast who loves building scalable software, creative web solutions, and solving real-world problems with code.
 
 ---
 
-### 📜 Certifications
+## 🧠 About Me
 
-Click to view each:
-
-- [Google AI-ML Virtual Internship Certificate](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Google%20AI%20Virtual%20Internship%20Certificate.jpg)
-- [Azure AI Fundamentals](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20AI%20Fundamentals.jpg)
-- [AICTE Eduskills AI Certificate](https://github.com/dhanushgopi2456/My_Certifications/blob/main/AICTE%20AI%20Certificate.jpg)
-- [LinkedIn Learning Certificates](https://github.com/dhanushgopi2456/My_Certifications)
-
----
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,mongodb,git,github,vscode,linux" />
-</p>
+- 🎓 I'm a B.Tech student majoring in Software Engineering.
+- 🌐 I'm currently building AI/ML and full-stack web projects.
+- 🧠 Always learning new technologies like **Quantum Computing**, **QML**, and **YOLOv9**.
+- 🛠️ Currently working on a **Stall Booking System** with Flipkart-style UI.
+- 📫 How to reach me: dhanushgopi2456@gmail.com
 
 ---
 
-### 🧪 Projects I've Built
-
-| Project        | Description | Tech Stack |
-|----------------|-------------|------------|
-| **Stall Management System** | Booking stalls like e-commerce | React, Node.js, MongoDB |
-| **AI-ML Internship Projects** | ML models and data visualizations | Python, Jupyter |
-| **Portfolio Website** | Personal responsive website | HTML, CSS, JS |
-| **SQL Project** | Data analysis using SQL | MySQL |
-| **Mini Java Projects** | OOP-focused Java apps | Java, Eclipse |
-
----
-
-### 📊 GitHub Stats
+## 🕹️ Web Dev Game Vibes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=react&hide_border=true" width="42%"/>
+  <img src="https://raw.githubusercontent.com/dhanushgopi2456/dhanushgopi2456/main/game-dev.gif" alt="Web Developer Game GIF" width="400px" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 🏅 Certifications
+
+| Course | Link |
+|-------|------|
+| Azure AI Fundamentals | [View Certificate](https://drive.google.com/file/d/1OYf1kvV8cL1b8r96kMC-Apt8Ksp6h1oh/view?usp=sharing) |
+| AI-ML Virtual Internship by Google x AICTE x Eduskills | [View Certificate](https://drive.google.com/file/d/1d5XfMbMve1BPZB5uM0w8YZU8Ko9YjOIH/view?usp=sharing) |
+| Data Analysis using Python | [View Certificate](https://drive.google.com/file/d/1zuFuRMv9GUGtvZRKJ2Rg4Chh6A2Xya1n/view?usp=sharing) |
+| GitHub Workshop | [View Certificate](https://drive.google.com/file/d/1QaUtwzm-T0DwlfPiNyGvXngq1oY0yEY4/view?usp=sharing) |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dhanushgopi2456&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=radical" alt="Dhanush's GitHub Stats" />
 </p>
-
----
-
-### 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:dhanushgopi2456@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/dhanushgopi2456/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhanushgopi2456&theme=radical" alt="Dhanush's GitHub Streak Stats" />
 </p>
 
 ---
 
-> ✨ *“Keep solving. Keep learning. Keep building.”*
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhanushgopi2456/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:dhanushgopi2456@gmail.com"><img src="https://img.shields.io/badge/Gmail-Dhanush-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
