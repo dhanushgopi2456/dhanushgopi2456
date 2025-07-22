@@ -69,15 +69,16 @@
 
 <p align="center">
   <a href="mailto:gopidhanush615@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-gopidhanush615@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/dhanushgopi2456" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/dhanush-gopi-kavala-a460a528b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhanush%20Gopi%20Kavala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 
 
 
