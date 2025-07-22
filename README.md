@@ -18,6 +18,16 @@
 
 ---
 
+## 🏅 Certifications
+
+Here are some of the certifications I've earned:
+
+- 🎓 [AI-ML Virtual Internship – Google + AICTE + Eduskills](https://github.com/dhanushgopi2456/AI-ML_Virtual_Internship_Certificate/blob/main/DhanushGopi_AI-ML_Internship.pdf)
+- ☁️ [Microsoft Azure AI Fundamentals](https://github.com/dhanushgopi2456/Azure_AI_Fundamentals_Certificate/blob/main/DhanushGopi_AzureAI_Fundamentals.pdf)
+- 🧮 [Data Analysis using Python – Eduskills](https://github.com/dhanushgopi2456/Data_Analysis_using_python/blob/main/certificates/python_data_analysis_cert.pdf)
+- 🖥️ [GitHub Workshop Completion](https://github.com/dhanushgopi2456/GitHub_Workshop_Certificate/blob/main/DhanushGopi_GitHub_Workshop.pdf)
+
+
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -28,13 +38,15 @@
 
 ## 🧠 Projects I’ve Built
 
+
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔗 [Online Stall Booking System](https://github.com/dhanushgopi2456/Online_Stall_Booking) | Full-stack app to manage stall bookings for events | React, Java, MySQL |
+| 🔗 [Object Detection System](https://github.com/dhanushgopi2456/Object-Detection) | YOLO-based system for detecting multiple objects in images | Python, OpenCV, YOLOv8 |
 | 🔗 [Employee Management System](https://github.com/dhanushgopi2456/Employee-Management) | Web app to manage employee records | JSP, Java, MySQL |
 | 🔗 [Vehicle Management System](https://github.com/dhanushgopi2456/Vehicle_management) | Vehicle data tracking & CRUD system | Servlet, JSP, DB |
-| 🔗 [Skin Cancer Detection](https://github.com/dhanushgopi2456/SkinCancer) | CNN-based classifier for skin lesion detection | Python, TensorFlow |
 | 🔗 [Data Analysis with Python](https://github.com/dhanushgopi2456/Data_Analysis_using_python) | Exploratory and predictive analytics projects | Pandas, Matplotlib |
+
 
 ---
 
