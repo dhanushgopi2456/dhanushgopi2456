@@ -64,7 +64,6 @@
 - ⚙️ Software Design & Architecture  
 - 🧠 Problem Solving & Algorithms  
 - 🚀 Building Scalable Web Applications  
-- 🎨 UI/UX Design with Figma  
 - 🤖 Exploring the intersection of AI & Web
 
 ---
