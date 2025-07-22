@@ -26,6 +26,7 @@
 - 💻 Skilled in **Python**, **Java**, **React**, **MySQL**, **AI/ML**, and full-stack engineering
 - 🔭 Passionate about building intelligent, scalable applications and data-driven solutions
 
+---
 
 ## 🧠 Projects I’ve Built
 
