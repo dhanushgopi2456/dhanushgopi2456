@@ -71,17 +71,13 @@
   </a>
 </p>
 
-
-
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhanushgopi2456&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
-
 <p align="center">
   🚀 <strong><em>"Turning ideas into innovation, one line at a time."</em></strong> 💡
 </p>
-S
 
