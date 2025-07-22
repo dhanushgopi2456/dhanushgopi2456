@@ -2,7 +2,8 @@
 <h3 align="center">Aspiring Software Developer | AI-ML Intern | Full-Stack Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&color=4A90E2&width=435&lines=I+build+software+that+solves+real+problems;AI+%7C+ML+%7C+Web+%7C+Data+Driven+Projects;Always+Learning+%F0%9F%92%BB+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&color=4A90E2&width=600&lines=I+build+software+that+solves+real+problems;AI+%7C+ML+%7C+Web+%7C+Data+Driven+Projects;Always+Learning+%F0%9F%92%BB+Always+Building" />
+
 </p>
 
 ---
