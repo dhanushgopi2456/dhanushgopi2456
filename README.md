@@ -47,15 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=radical" height="160" />
 </p>
 
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=react-dark" alt="Contribution Graph" />
-</p>
-
 ---
 ## 🎯 Interests
 
