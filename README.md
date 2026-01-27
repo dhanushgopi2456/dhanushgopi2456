@@ -38,14 +38,6 @@
 | 🔗 [Vehicle Management System](https://github.com/dhanushgopi2456/Vehicle_management) | Vehicle data tracking & CRUD system | Flask, Python, MySQL |
 | 🔗 [Data Analysis with Python](https://github.com/dhanushgopi2456/Data_Analysis_using_python) | Exploratory and predictive analytics projects | Pandas, Matplotlib |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=radical" height="160" />
-</p>
 
 ---
 ## 🎯 Interests
