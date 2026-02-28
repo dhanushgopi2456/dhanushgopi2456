@@ -28,7 +28,7 @@ https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCAD.pdf
   - [NVIDIA Data Science Workflows](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NVDIA_Data_Science_Certificate.pdf)
   - [NPTEL Data Structures & Algorithms using Java](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Data%20Structure%20and%20Algorithms%20using%20Java%20.pdf)
   - [Web Tech & Multimedia – SWAYAM](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Web%20based%20technologies%20and%20Multimedia%20applications%20Certificate%20by%20Swayam%20IGNOU.pdf)
-- 💻 Skilled in **Python**, **Java**, **React js**,**Node js**,**Mongodb** **MySQL**, **AI/ML**, and full-stack engineering
+- 💻 Skilled in **Python** , **Java** , **React js** ,**Node js** ,**Mongodb** ,**MySQL** , **AI/ML**, and full-stack engineering
 - 🔭 Passionate about building intelligent, scalable applications and data-driven solutions
 
 ---
