@@ -18,9 +18,11 @@
 
 - 🎓 B.Tech CSE Student
 - 🤖 Completed certifications:
-  - [Salesforce Certified AgentForce Specialist](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NVDIA_Data_Science_Certificate.pdf)
-  - [ServiceNow Certified System Administrator](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NVDIA_Data_Science_Certificate.pdf)
-  - [ServiceNow Certified Application Developer](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NVDIA_Data_Science_Certificate.pdf)
+  - [Salesforce Certified AgentForce Specialist](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)
+  - [ServiceNow Certified System Administrator](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCIS.pdf)
+  - [ServiceNow Certified Application Developer](
+https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCAD.pdf
+)
   - [Azure AI Fundamentals](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)
   - [Oracle DevOps Professional](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Oracle_Devops_Certificate.pdf)
   - [NVIDIA Data Science Workflows](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NVDIA_Data_Science_Certificate.pdf)
