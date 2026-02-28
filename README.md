@@ -32,11 +32,12 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| 🔗 [FreshMart](https://github.com/dhanushgopi2456/Data_Analysis_using_python) | Full-Stack app to manage groceries for events | Reactjs, Nodejs,Expressjs Mongodb Atlas|
 | 🔗 [Online Stall Booking System](https://github.com/dhanushgopi2456/Online_Stall_Booking) | Full‑stack app to manage stall bookings for events | React, JavaScript, Next Js |
 | 🔗 [Object‑Detection‑YOLO‑v9](https://github.com/dhanushgopi2456/Object-Detection-YOLO-v9) | YOLO‑based system for detecting multiple objects in images | Python, OpenCV, YOLOv8 |
 | 🔗 [Employee Management System](https://github.com/dhanushgopi2456/Employee-Management) | Web app to manage employee records | Django, Python, MySQL |
 | 🔗 [Vehicle Management System](https://github.com/dhanushgopi2456/Vehicle_management) | Vehicle data tracking & CRUD system | Flask, Python, MySQL |
-| 🔗 [Data Analysis with Python](https://github.com/dhanushgopi2456/Data_Analysis_using_python) | Exploratory and predictive analytics projects | Pandas, Matplotlib |
+
 
 
 ---
