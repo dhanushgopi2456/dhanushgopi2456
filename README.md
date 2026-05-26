@@ -134,23 +134,6 @@
 
 ---
 
-## ⚡ Recent Activity
-
-<!-- ACTIVITY_START -->
-> 🔄 *Last Refreshed: May 25, 2026 at 11:08 UTC*
-
-| 📅 Date | 🎯 Activity |
-|---------|------------|
-| 2026-05-25 | 🚀 Profile automation configured & deployed |
-| 2026-05-25 | ✨ Enhanced GitHub profile with premium visuals |
-| 2026-05-25 | 🐍 Added animated contribution snake |
-| 2026-05-25 | 📊 Integrated GitHub analytics dashboard |
-| 2026-05-25 | 🏆 Added trophy showcase section |
-| 2026-05-25 | 🛠️ Configured automated workflow pipelines |
-<!-- ACTIVITY_END -->
-
----
-
 ## 💡 Dev Quote of the Day
 
 <!-- QUOTE_START -->
