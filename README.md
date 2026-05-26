@@ -114,10 +114,10 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔗 [FreshMart](https://github.com/dhanushgopi2456/FreshMart) | Full-Stack app to manage groceries for events | Reactjs+Vite, Nodejs, Expressjs, Mongodb Atlas |
-| 🔗 [Team-Task Manager](https://github.com/dhanushgopi2456/Team-Task-Manager) | A full-stack web application where users can create projects, assign tasks, and track progress with role-based access control | React.Js, Node.Js, Express.Js , MongoDB |
+| 🔗 [Team-Task Manager](https://github.com/dhanushgopi2456/Team-Task-Manager)| A full-stack web application where users can create projects, assign tasks, and track progress with role-based access control | React.Js, Node.Js, Express.Js , MongoDB |
 | 🔗 [N7 Modern Bank](https://github.com/dhanushgopi2456/N7-Modern-Banking) |A responsive fintech banking application featuring modern UI/UX, reusable components, and scalable frontend architecture | React , Vite , Node.js |
-| 🔗 [Object‑Detection‑YOLO‑v9](https://github.com/dhanushgopi2456/Object-Detection-YOLO-v9) | YOLO‑based system for detecting multiple objects in images | Python, OpenCV, YOLOv8 |
-| 🔗 [Vehicle Management System](https://github.com/dhanushgopi2456/Vehicle_management) | Vehicle data tracking & CRUD system | Flask, Python, MySQL |
+| 🔗 [Object‑Detection‑YOLO‑v9](https://github.com/dhanushgopi2456/Object-Detection-YOLO-v9)| YOLO‑based system for detecting multiple objects in images | Python, OpenCV, YOLOv8 |
+| 🔗 [Vehicle Management System](https://github.com/dhanushgopi2456/Vehicle_management)| Vehicle data tracking & CRUD system | Flask, Python, MySQL |
 
 ---
 
