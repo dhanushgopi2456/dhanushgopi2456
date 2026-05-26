@@ -93,22 +93,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&icon_color=00E676&text_color=C9D1D9&ring_color=8B5CF6&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=dhanushgopi2456&theme=radical&hide_border=true&background=0D1117&ring=4A90E2&fire=FF6B6B&currStreakLabel=4A90E2&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4A90E2&text_color=C9D1D9&langs_count=10" alt="Top Languages"/>
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
