@@ -96,12 +96,11 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=radical&no-frame=true&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
   />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
