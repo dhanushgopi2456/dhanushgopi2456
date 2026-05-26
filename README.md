@@ -97,11 +97,10 @@
 
 <p align="center">
   <img 
-    <img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=tokyonight" />
+    src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=radical&no-frame=true&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
   />
 </p>
----
 
 ## 📈 Contribution Graph
 
