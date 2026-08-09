@@ -148,11 +148,11 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ### 🏢 Enterprise Systems & Platforms
 - [<img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf) **[Salesforce Agentforce Specialist](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)** *(Dec 2025)*
-- [<img src="https://img.shields.io/badge/ServiceNow-System_Administrator_(CSA)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CSA.pdf) **[ServiceNow Certified System Administrator (CSA)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CSA.pdf)** *(Sep 2025)*
-- [<img src="https://img.shields.io/badge/ServiceNow-Application_Developer_(CAD)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CAD.pdf) **[ServiceNow Certified Application Developer (CAD)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CAD.pdf)** *(Oct 2025)*
+- [<img src="https://img.shields.io/badge/ServiceNow-System_Administrator_(CSA)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CSA.pdf) **[ServiceNow Certified System Administrator (CSA)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCIS.pdf)** *(Sep 2025)*
+- [<img src="https://img.shields.io/badge/ServiceNow-Application_Developer_(CAD)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CAD.pdf) **[ServiceNow Certified Application Developer (CAD)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCAD.pdf)** *(Oct 2025)*
 
 ### 🎓 Academic & Algorithms
-- [<img src="https://img.shields.io/badge/NPTEL-DSA_using_Java-FF9933?style=flat-square&logo=nptel&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NPTEL%20Java%20DSA.pdf) **[NPTEL: Data Structures & Algorithms using Java](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NPTEL%20Java%20DSA.pdf)** *(Oct 2024)*
+- [<img src="https://img.shields.io/badge/NPTEL-DSA_using_Java-FF9933?style=flat-square&logo=nptel&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NPTEL%20Java%20DSA.pdf) **[NPTEL: Data Structures & Algorithms using Java](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Data%20Structure%20and%20Algorithms%20using%20Java%20.pdf)** *(Oct 2024)*
 
 ## 🏆 Achievements & Leadership
 
