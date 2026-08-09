@@ -3,7 +3,6 @@
 <!-- HEADER BADGE / BANNER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vcenter=true&width=700&lines=DHANUSH+GOPI+KAVALA;Full-Stack+MERN+Engineer;AI%2FML+%26+Computer+Vision+Specialist" alt="Typing SVG" />
 
-# 🚀 DHANUSH GOPI KAVALA
 ### **Full-Stack MERN Engineer · AI/ML & Computer Vision Specialist**
 
 [![Education](https://img.shields.io/badge/Education-B.Tech_CSE_(CGPA:_9.04%2F10)-8A2BE2?style=for-the-badge&logo=academic-cap&logoColor=white)](https://github.com/dhanushgopi2456)
