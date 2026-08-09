@@ -233,9 +233,9 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-gopidhanush615%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopidhanush615@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushgopi2456-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushgopi2456-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-gopi-kavala/)
 [![GitHub](https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Dhanush_Gopi_Kavala-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/dhanushgopi2456)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Dhanush_Gopi_Kavala-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhanush-portfolio-site-pi.vercel.app/)
 
 </div>
 
