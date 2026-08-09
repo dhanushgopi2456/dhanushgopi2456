@@ -9,7 +9,7 @@
 [![Education](https://img.shields.io/badge/Education-B.Tech_CSE_(CGPA:_9.04%2F10)-8A2BE2?style=for-the-badge&logo=academic-cap&logoColor=white)](https://github.com/dhanushgopi2456)
 [![Location](https://img.shields.io/badge/Location-Tadepalligudem%2C_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
-[![Live Website](https://img.shields.io/badge/Portfolio-Live_Website-6A057F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhanush-portfolio-site-pi.vercel.app/)
+[![Live Website](https://img.shields.io/badge/Portfolio-Live_Website-6A057F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhanush-new-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-gopi-kavala/)
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopidhanush615@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
