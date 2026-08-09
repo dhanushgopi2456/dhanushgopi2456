@@ -1,328 +1,176 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Dhanush%20Gopi%20Kavala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20AI%2FML%20Practitioner%20%7C%20MERN%20Specialist&descAlignY=58&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Full+Stack+Developer;MERN+Stack+%7C+React.js+%7C+Node.js+%7C+MongoDB;AI+%2F+ML+%7C+PyTorch+%7C+Computer+Vision;Building+Scalable+%2C+Secure+%2C+Production-Grade+Systems" alt="Typing SVG" /> </a> <br/> <img src="https://img.shields.io/badge/CGPA-9.04%2F10-6D28D9?style=for-the-badge&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&labelColor=1a1a2e"/> <img src="https://img.shields.io/badge/Location-Tadepalligudem%2C%20India-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+
+<br/><br/>
+
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a> <a href="mailto:gopidhanush615@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a> <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dhanushgopi2456&style=for-the-badge&color=6D28D9&labelColor=1a1a2e"/> <img src="https://img.shields.io/github/followers/dhanushgopi2456?style=for-the-badge&color=7C3AED&labelColor=1a1a2e&label=Followers"/> <img src="https://img.shields.io/github/stars/dhanushgopi2456?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e&label=Stars"/> </div> <br/>
+🧠 About Me
+<img align="right" width="290" src="https://raw.githubusercontent.com/mayankm26/mayankm26/output/snake.svg" hidden/>
+I'm a Computer Science graduate and Full Stack Software Engineer who 
+engineers scalable, production-ready systems across the MERN stack, 
+with a strong parallel foundation in AI/ML and Computer Vision.
+
+I approach engineering with a product mindset — writing clean, modular, 
+secure code, designing RESTful architectures, and optimizing systems 
+for performance, scalability, and real-world reliability.
+
+My work spans full stack web applications with JWT-secured APIs, 
+role-based access systems, and deep learning pipelines built with 
+PyTorch and OpenCV — bridging traditional software engineering with 
+applied AI.
+
+🎯 Open To: Software Engineer • Full Stack Developer • AI/ML Engineer • SDE Internships & Full-Time Roles
+
+<br/>
+🛠️ Tech Stack
 <div align="center">
 
-  <!-- 1a. Capsule Render Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=220&section=header&text=DHANUSH%20GOPI%20KAVALA&fontSize=42&fontColor=a855f7&animation=twinkle&fontAlignY=38" width="100%" alt="Header Banner" />
+Languages
 
-  <!-- 1b. Typing SVG animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Full+Stack+Architect+%7C+MERN+Stack+Expert;AI%2FML+Engineer+%7C+Computer+Vision+Specialist;High-Performance+System+Design;Transforming+Complex+Ideas+into+Scalable+Code" alt="Typing SVG" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" />
 
-  <br />
+Frontend
 
-  <!-- 1c. Academic badges -->
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20CSE-8B5CF6?style=flat-square&logo=academicons&logoColor=white" alt="Degree Badge" />
-  <img src="https://img.shields.io/badge/CGPA-9.04%2F10.0-7C3AED?style=flat-square&logo=google-scholar&logoColor=white" alt="CGPA Badge" />
-  <img src="https://img.shields.io/badge/College-Sri%20Vasavi%20Engg%20College-6D28D9?style=flat-square&logo=education&logoColor=white" alt="Institution Badge" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&theme=dark" />
 
-  <br />
+Backend & Databases
 
-  <!-- 1d. Location badge -->
-  <img src="https://img.shields.io/badge/Location-Tadepalligudem%2C%20India-5B21B6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,mongodb,mysql&theme=dark" />
 
-  <br /><br />
+Cloud, DevOps & Tooling
 
-  <!-- 1e-h. Action buttons -->
-  <a href="https://dhanushgopi.portfolio.site">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Button" />
-  </a>
-  <a href="https://linkedin.com/in/dhanushgopikavala">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" />
-  </a>
-  <a href="mailto:gopidhanush615@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" />
-  </a>
-  <a href="https://github.com/dhanushgopi2456">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" />
-  </a>
-
-  <br /><br />
-
-  <!-- 1i-k. Stats badges -->
-  <img src="https://komarev.com/ghpvc/?username=dhanushgopi2456&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dhanushgopi2456?label=FOLLOWERS&style=flat-square&color=7c3aed" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/dhanushgopi2456?label=STARS&style=flat-square&color=6d28d9" alt="GitHub Stars" />
-
-</div>
-
----
-
-## 01. About Me
-
-I am an innovative **Software Engineer** and **Computer Science Graduate** with a specialized focus on **MERN Full Stack Development** and **Deep Learning / Computer Vision**. I bring a disciplined product-engineering approach to building fault-tolerant, resilient backend architectures and slick, intuitive frontend interfaces.
-
-- ⚡ **Full Stack Mastery:** Architecting robust RESTful API structures, JWT security workflows, and responsive frontend systems with React, Node.js, and MongoDB.
-- 👁️ **Computer Vision & AI:** Designing custom object detection models and inference pipelines utilizing **YOLOv9**, **PyTorch**, and **OpenCV**.
-- 🛠️ **Core CS Fundamentals:** Strong expertise in Data Structures, Advanced Algorithms, Object-Oriented Programming (OOP), and Relational / Non-Relational DBMS.
-- 🎯 **Engineering Precision:** Dedicated to writing clean, maintainable code optimized for high throughput, sub-second latency, and scalable growth.
-- 🚀 **Open To:** Full-time Software Development Roles, MERN Stack Roles, AI/ML Engineering opportunities, and High-Impact Tech Endeavors.
-
----
-
-## 02. Tech Stack
-
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,azure,oracle&theme=dark" /> </div> <br/>
+🤖 AI / ML Expertise
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,tailwind,react,vite,nodejs,express,mongodb,mysql,flask,pytorch,opencv,git,github,postman&perline=10" alt="Tech Stack Icons" />
-</div>
+Domain	Proficiency	Details
+Deep Learning	⭐⭐⭐⭐	Custom model training with PyTorch, real-time inference pipelines
+Computer Vision	⭐⭐⭐⭐	Object detection with YOLOv9, OpenCV-based image processing
+Model Deployment	⭐⭐⭐	Flask-based deployment of trained deep learning models for live inference
+AI Fundamentals	⭐⭐⭐⭐	Microsoft Azure AI-900 certified; strong grasp of ML theory and workflows
+Applied Research	⭐⭐⭐	Published research on YOLOv9-based object detection at AIDE-2024
+</div> <br/>
+🚀 Featured Projects
+<details> <summary><b>🛒 FreshMart — Full-Stack Grocery E-Commerce Platform</b></summary> <br/>
 
-<br />
+A full-stack e-commerce web application featuring JWT authentication, a responsive React frontend, and an integrated admin dashboard for complete inventory control.
 
-| Layer | Technical Arsenal |
-| :--- | :--- |
-| **Languages** | Core Java, Python, C++, JavaScript (ES6+), HTML5, CSS3 |
-| **Frontend UI** | React.js, Vite, Tailwind CSS, Redux Toolkit, Material UI |
-| **Backend & Storage** | Node.js, Express.js, Flask, Spring Boot (Basics), MongoDB, Mongoose, MySQL |
-| **AI / Machine Learning** | PyTorch, OpenCV, NumPy, YOLOv9, Computer Vision Pipelines |
-| **Tooling & Cloud** | Git, GitHub, Postman, CI/CD Workflows, Agile Methodologies, REST APIs |
+Attribute	Detail
+Stack	React, Vite, Node.js, Express, MongoDB, Mongoose
+Scale	Multi-role e-commerce system (users, admin, cart, inventory)
+Performance	Optimized rendering and frontend load times via Vite
+Security	JWT-based authentication and secure API access control
+Impact	Modular, scalable REST APIs orchestrating full user/product/cart lifecycle
+Repository	github.com/dhanushgopi2456/FreshMart
 
----
+Designed and deployed modular, scalable RESTful APIs using Node.js, Express, and MongoDB/Mongoose to orchestrate secure user, product, and cart management workflows end-to-end.
 
-## 03. AI / ML Expertise
+</details> <details> <summary><b>📋 Team Task Manager — Collaborative RBAC Task Platform</b></summary> <br/>
 
-| Domain | Proficiency | Details & Engineering Scope |
-| :--- | :--- | :--- |
-| **Computer Vision** | Advanced | Real-time object tracking and custom detection model training with YOLOv9 & PyTorch. |
-| **Deep Learning** | Intermediate+ | Dataset augmentation, hyperparameter tuning, loss optimization, and feature extraction. |
-| **Model Serving** | Advanced | Packaging heavy ML inference models into lightweight, responsive Flask microservices. |
-| **Tensor Workflows** | Advanced | Numerical array processing, image vectorization, and matrix operations with NumPy. |
+A collaborative, multi-user task management system featuring JWT-based Role-Based Access Control and a modular backend built on MVC architecture.
 
----
+Attribute	Detail
+Stack	React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, Tailwind CSS
+Scale	Multi-user, multi-role collaborative workspace
+Performance	Real-time state updates with custom filtering logic
+Security	JWT-based Role-Based Access Control (RBAC)
+Impact	Modular MVC backend with robust Mongoose schema design
+Repository	github.com/dhanushgopi2456/Team-Task-Manager
 
-## 04. Featured Projects
+Built a highly responsive UI with React.js and Tailwind CSS, integrating real-time state management and role-driven access across a modular MVC-based backend.
 
-<details>
-<summary><b>🛒 FreshMart — Full-Stack E-Commerce Solution</b></summary>
+</details> <details> <summary><b>🎯 Object Detection using YOLOv9 — Computer Vision Pipeline</b></summary> <br/>
 
-<br />
+An end-to-end computer vision pipeline built for real-time custom object detection, trained and benchmarked using YOLOv9.
 
-A robust e-commerce application engineered for real-time order workflows, automated product inventory tracking, and custom role-based admin controls.
+Attribute	Detail
+Stack	Python, PyTorch, OpenCV, NumPy, Flask
+Scale	Custom-trained deep learning model with live inference support
+Performance	High-performance Flask deployment for real-time media inference
+Security	Controlled upload and inference pipeline
+Impact	Research published at AIDE-2024 International Conference
+Repository	github.com/dhanushgopi2456/Object-Detection-YOLO-v9
 
-| Metric | Technical Overview |
-| :--- | :--- |
-| **Stack** | React.js, Vite, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS |
-| **Scale** | Multi-tenant user architecture with isolated client catalog and admin management |
-| **Performance** | Rapid asset loading via Vite and index-optimized MongoDB queries |
-| **Security** | Secure JWT authentication, password hashing, and endpoint authorization |
-| **Impact** | Complete shopping cart and administrative inventory governance system |
-| **Repository** | [github.com/dhanushgopi2456/FreshMart](https://github.com/dhanushgopi2456/FreshMart) |
+Engineered a complete computer vision pipeline using PyTorch, NumPy, and OpenCV, then deployed the trained model as a Flask web application supporting real-time inference on live media.
 
-```
-Workflow Architecture:
-[React Frontend] === (REST API / JWT) ===> [Node/Express Server] ===> [MongoDB Database]
-```
-</details>
+</details> <br/>
+💼 Experience
+MERN Stack Developer
 
-<details>
-<summary><b>📋 Team Task Manager — Collaborative Enterprise Platform</b></summary>
+Codec Technologies Pvt. Ltd. — Remote Jan 2026 – Mar 2026
 
-<br />
+Engineered and deployed scalable web applications across the full MERN stack, with a focus on secure API design and Agile-driven collaboration.
 
-An Agile-inspired task management workspace offering role-based access control, dynamic state management, and clear team activity metrics.
+Scope of Work
 
-| Metric | Technical Overview |
-| :--- | :--- |
-| **Stack** | React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, Tailwind CSS |
-| **Scale** | Granular permissions supporting team leads, members, and project administrators |
-| **Performance** | Optimized React component lifecycle minimizing DOM reflows and API requests |
-| **Security** | RBAC middleware layer, payload sanitization, and session management |
-| **Impact** | Direct productivity enhancements via real-time task filters and status tracking |
-| **Repository** | [github.com/dhanushgopi2456/Team-Task-Manager](https://github.com/dhanushgopi2456/Team-Task-Manager) |
+Engineered and deployed scalable web applications using React.js, Node.js, Express.js, and MongoDB with Tailwind CSS
+Optimized rendering performance and frontend load times
+Designed secure RESTful APIs with JWT Authentication
+Managed version control using Git/GitHub under Agile methodologies
+Ensured robust multi-user system operations
 
-```
-Workflow Architecture:
-[User Client] === (RBAC Gatekeeper) ===> [MVC Controller Logic] ===> [Mongoose Data Layer]
-```
-</details>
+React.js Node.js Express.js MongoDB Tailwind CSS JWT Agile Git/GitHub
 
-<details>
-<summary><b>🎯 Object Detection using YOLOv9 — Published Research Work</b></summary>
+<br/>
+🏆 Achievements
+<div align="center">
+Recognition	Details
+📄 Research Paper Published	"Object Detection using YOLOv9" — International Conference on AI and Data Science (AIDE-2024)
+🎓 Class Representative	Led a cohort of 60+ students; managed academic communications and administration liaison (Jan 2023 – Jan 2026)
+🛡️ Anti-Ragging & Student Committee Member	Promoted a safe, inclusive campus environment (Aug 2024 – Jan 2026)
+</div> <br/>
+📜 Certifications
 
-<br />
+Salesforce
 
-High-speed computer vision detection suite featuring deep neural network inference, published at the International Conference on AI and Data Science (AIDE-2024).
+<img src="https://img.shields.io/badge/Agentforce%20Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
 
-| Metric | Technical Overview |
-| :--- | :--- |
-| **Stack** | Python, PyTorch, OpenCV, NumPy, Flask, YOLOv9 Framework |
-| **Scale** | Concurrent media upload handling with instant bounding box visual outputs |
-| **Performance** | Ultra-low latency image inference utilizing optimized PyTorch model weights |
-| **Security** | Sandboxed image processing environment with input MIME validation |
-| **Impact** | Research publication demonstrating cutting-edge YOLOv9 performance metrics |
-| **Repository** | [github.com/dhanushgopi2456/Object-Detection-YOLO-v9](https://github.com/dhanushgopi2456/Object-Detection-YOLO-v9) |
+ServiceNow
 
-```
-Workflow Architecture:
-[Input Stream] ===> [OpenCV / NumPy Preprocessing] ===> [YOLOv9 PyTorch Engine] ===> [Flask API Output]
-```
-</details>
+<img src="https://img.shields.io/badge/Certified%20System%20Administrator-6D28D9?style=flat-square&logo=servicenow&logoColor=white"/> <img src="https://img.shields.io/badge/Certified%20Application%20Developer-6D28D9?style=flat-square&logo=servicenow&logoColor=white"/>
 
----
+Oracle
 
-## 05. Experience
+<img src="https://img.shields.io/badge/Cloud%20Infrastructure%202025%20DevOps%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
-### **MERN Stack Developer Intern**
-**Codec Technologies Pvt. Ltd.** | *Jan 2026 – Mar 2026* | Remote
+Microsoft
 
-Engineered high-concurrency web solutions while implementing modern REST standards and UI optimization strategies.
+<img src="https://img.shields.io/badge/Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 
-- Engineered and deployed scalable web applications using the MERN Stack (React.js, Node.js, Express.js, MongoDB) and Tailwind CSS, optimizing frontend load times.
-- Designed secure RESTful APIs with JWT Authentication and managed version control using Git/GitHub under Agile methodologies.
-- Streamlined team workflows and code quality using modular coding standards and CI/CD best practices.
+NPTEL
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS` `REST APIs` `Git`
-
----
-
-## 06. Achievements
-
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms%20using%20Java-7C3AED?style=flat-square&logo=googlescholar&logoColor=white"/> <br/>
+💻 Coding Profiles
 <div align="center">
 
-| Recognition | Highlight Details |
-| :--- | :--- |
-| **Published Author** | Research paper *"Object Detection using YOLOv9"* published at **AIDE-2024** International Conference. |
-| **Class Representative** | Managed academic coordination and student leadership for a batch of 60+ engineers (Jan 2023 – Jan 2026). |
-| **Committee Member** | Appointed to Anti-Ragging and Student Affairs Committee (Aug 2024 – Jan 2026). |
-| **Academic Academic Leader** | Graduated with a high-standing **9.04 / 10.0 CGPA** in Computer Science & Engineering. |
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a> <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
-</div>
-
----
-
-## 07. Certifications
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/ServiceNow-Certified%20System%20Administrator%20(CSA)-000000?style=for-the-badge&logo=servicenow&logoColor=29B6F6" alt="ServiceNow CSA" />
-<img src="https://img.shields.io/badge/ServiceNow-Certified%20Application%20Developer%20(CAD)-000000?style=for-the-badge&logo=servicenow&logoColor=29B6F6" alt="ServiceNow CAD" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%202025%20DevOps%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DevOps" />
-<img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Agentforce" />
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms%20using%20Java-FF9900?style=for-the-badge&logo=swayam&logoColor=white" alt="NPTEL DSA" />
-
-</div>
-
----
-
-## 08. Coding Profiles
-
+</div> <br/>
+📊 GitHub Analytics
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushgopi2456&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9"/> </div> <br/>
+🏅 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7"/> </div> <br/>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=ffffff"/> </div> <br/>
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/dhanushgopi2456/dhanushgopi2456/output/github-contribution-grid-snake-dark.svg"/> </div> <br/>
+🎯 Current Focus
+yaml
+Learning:   Advanced System Design, Spring Boot, Cloud-Native Architecture
+Building:   Scalable Full Stack Applications with MERN + AI Integrations
+Exploring:  LLM Applications, Generative AI, Agentic Systems
+Open To:    Software Engineer • Full Stack Developer • AI/ML Engineer Roles
+<br/>
+📫 Connect With Me
 <div align="center">
 
-  <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  &nbsp;
-  <a href="https://hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
-  </a>
-  &nbsp;
-  <a href="https://codechef.com">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
+<a href="mailto:gopidhanush615@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a> <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a> <a href="#"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 
-</div>
-
----
-
-## 09. GitHub Analytics
-
+</div> <br/>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=FFFFFF&icon_color=7C3AED&bg_color=0D1117" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushgopi2456&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakNum=A855F7" alt="GitHub Streak" width="49%" />
+"Engineering is not just about writing code — it's about building systems that scale, secure, and serve."
 
-  <br /><br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" width="60%" />
-
-</div>
-
----
-
-## 10. GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=onedark&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 11. Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=github-compact&bg_color=0D1117&hide_border=true&color=7c3aed&line=a855f7&point=ffffff" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-## 12. Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhanushgopi2456/dhanushgopi2456/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-## 13. Current Focus
-
-```yaml
-Current_Focus:
-  Learning:
-    - Distributed Systems & High-Availability Architecture
-    - Low-Latency Model Deployment (TensorRT / ONNX)
-    - Cloud-Native Orchestration (Docker & Kubernetes)
-  Building:
-    - Modular Full-Stack Microservices Platforms
-    - Enterprise Real-Time Vision Analytics Pipeline
-  Exploring:
-    - Generative AI Frameworks & Agentic Workflows
-    - High-Performance C++ Backend Optimizations
-  Open_To:
-    - Senior & Lead Full Stack Engineer Opportunities
-    - AI/ML Research & Open-Source Projects
-```
-
----
-
-## 14. Connect With Me
-
-<div align="center">
-
-  <a href="mailto:gopidhanush615@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/dhanushgopikavala">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/dhanushgopi2456">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://dhanushgopi.portfolio.site">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-
-  *"Code is like humor. When you have to explain it, it’s bad."*
-
-  <br /><br />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=120&section=footer" width="100%" alt="Footer Banner" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/> </div>
