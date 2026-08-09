@@ -3,6 +3,7 @@
 <!-- HEADER BADGE / BANNER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vcenter=true&width=700&lines=DHANUSH+GOPI+KAVALA;Full-Stack+MERN+Engineer;AI%2FML+%26+Computer+Vision+Specialist" alt="Typing SVG" />
 
+# 🚀 DHANUSH GOPI KAVALA
 ### **Full-Stack MERN Engineer · AI/ML & Computer Vision Specialist**
 
 [![Education](https://img.shields.io/badge/Education-B.Tech_CSE_(CGPA:_9.04%2F10)-8A2BE2?style=for-the-badge&logo=academic-cap&logoColor=white)](https://github.com/dhanushgopi2456)
@@ -139,17 +140,19 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ## 📜 Certifications
 
+> *Click on any badge or title below to view/verify the original credential link.*
+
 ### ☁️ Cloud & Infrastructure
-- **Oracle**: Cloud Infrastructure 2025 DevOps Professional *(July 2025)*
-- **Microsoft**: Azure AI Fundamentals (AI-900) *(May 2024)*
+- [![Oracle Cloud DevOps Professional](https://img.shields.io/badge/Oracle-DevOps_Professional_2025-F80000?style=flat-square&logo=oracle&logoColor=white)](YOUR_ORACLE_CERT_LINK_HERE) **[Oracle Cloud Infrastructure 2025 DevOps Professional](YOUR_ORACLE_CERT_LINK_HERE)** *(July 2025)*
+- [![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_(AI--900)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](YOUR_AZURE_CERT_LINK_HERE) **[Microsoft Azure AI Fundamentals (AI-900)](YOUR_AZURE_CERT_LINK_HERE)** *(May 2024)*
 
 ### 🏢 Enterprise Systems & Platforms
-- **Salesforce**: Agentforce Specialist *(Dec 2025)*
-- **ServiceNow**: Certified System Administrator (CSA) *(Sep 2025)*
-- **ServiceNow**: Certified Application Developer (CAD) *(Oct 2025)*
+- [![Salesforce Agentforce Specialist](https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](YOUR_SALESFORCE_CERT_LINK_HERE) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
+- [![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-System_Administrator_(CSA)-293E40?style=flat-square&logo=servicenow&logoColor=white)](YOUR_SERVICENOW_CSA_LINK_HERE) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
+- [![ServiceNow CAD](https://img.shields.io/badge/ServiceNow-Application_Developer_(CAD)-293E40?style=flat-square&logo=servicenow&logoColor=white)](YOUR_SERVICENOW_CAD_LINK_HERE) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
 
 ### 🎓 Academic & Algorithms
-- **NPTEL**: Data Structures & Algorithms using Java *(Oct 2024)*
+- [![NPTEL DSA Java](https://img.shields.io/badge/NPTEL-DSA_using_Java-FF9933?style=flat-square&logo=nptel&logoColor=white)](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java](YOUR_NPTEL_CERT_LINK_HERE)** *(Oct 2024)*
 
 ---
 
@@ -182,10 +185,12 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 <div align="center">
 
-![Dhanush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=dracula&count_private=true&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhanushgopi2456&theme=dracula&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Dhanush's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushgopi2456&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=dracula&hide_border=true)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -195,7 +200,9 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=dracula&no-frame=true&column=6)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=dracula&no-frame=true&column=6" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -205,7 +212,7 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=dracula)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=dracula" alt="Contribution Graph" />
 
 </div>
 
@@ -239,4 +246,3 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 <div align="center">
   <i>"Simplicity is prerequisite for reliability. Continuous innovation through clean software engineering."</i>
 </div>
-
