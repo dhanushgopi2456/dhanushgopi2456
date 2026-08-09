@@ -143,16 +143,16 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 > *Click on any badge or title below to view/verify the original credential link.*
 
 ### ☁️ Cloud & Infrastructure
-- [(https://github.com/dhanushgopi2456/My_Certifications/blob/main/Oracle_Devops_Certificate.pdf)](YOUR_ORACLE_CERT_LINK_HERE) **[Oracle Cloud Infrastructure 2025 DevOps Professional](YOUR_ORACLE_CERT_LINK_HERE)** *(July 2025)*
-- [(https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)](YOUR_AZURE_CERT_LINK_HERE) **[Microsoft Azure AI Fundamentals (AI-900)](YOUR_AZURE_CERT_LINK_HERE)** *(May 2024)*
+- [![Oracle Cloud DevOps Professional](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Oracle_Devops_Certificate.pdf](YOUR_ORACLE_CERT_LINK_HERE) **[Oracle Cloud Infrastructure 2025 DevOps Professional](YOUR_ORACLE_CERT_LINK_HERE)** *(July 2025)*
+- [![Microsoft Azure AI Fundamentals](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)](YOUR_AZURE_CERT_LINK_HERE) **[Microsoft Azure AI Fundamentals (AI-900)](YOUR_AZURE_CERT_LINK_HERE)** *(May 2024)*
 
 ### 🏢 Enterprise Systems & Platforms
-- [(https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)](YOUR_SALESFORCE_CERT_LINK_HERE) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
-- [(https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCIS.pdf) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
-- [(https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCAD.pdf)](YOUR_SERVICENOW_CAD_LINK_HERE) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
+- [![Salesforce Agentforce Specialist](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)](YOUR_SALESFORCE_CERT_LINK_HERE) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
+- [![ServiceNow CSA](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCIS.pdf)](YOUR_SERVICENOW_CSA_LINK_HERE) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
+- [![ServiceNow CAD](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCAD.pdf)](YOUR_SERVICENOW_CAD_LINK_HERE) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
 
 ### 🎓 Academic & Algorithms
-- [(https://github.com/dhanushgopi2456/My_Certifications/blob/main/Web%20based%20technologies%20and%20Multimedia%20applications%20Certificate%20by%20Swayam%20IGNOU.pdf)](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java](YOUR_NPTEL_CERT_LINK_HERE)** *(Oct 2024)*
+- [![NPTEL DSA Java](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Web%20based%20technologies%20and%20Multimedia%20applications%20Certificate%20by%20Swayam%20IGNOU.pdf)](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java](YOUR_NPTEL_CERT_LINK_HERE)** *(Oct 2024)*
 
 ---
 
@@ -174,7 +174,7 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 | :--- | :--- |
 | 🧩 **[LeetCode](https://leetcode.com/u/Dhanush_Gopi/)** | **Data Structures & Algorithms**: Solving complex DSA challenges and algorithmic logic. |
 | 🟢 **[GeeksforGeeks](https://www.geeksforgeeks.org/profile/gopidhan1xwf)** | Practicing core Java & Python algorithmic logic and computer science fundamentals. |
-| 🎯 **[HackerRank](https://hackerrank.com)** | Certified in Java, Python & Problem Solving basics. |
+| 🎯 **[HackerRank](https://www.hackerrank.com/profile/gopidhanush615)** | Certified in Java, Python & Problem Solving basics. |
 | ⚡ **[Code Ninga 360](https://www.naukri.com/code360/profile/codewithdhanush)** | Participating in timed competitive programming contests. |
 
 </div>
