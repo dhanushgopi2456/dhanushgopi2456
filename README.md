@@ -50,7 +50,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ SOFTWARE ENGINEER | FULL-STACK MERN | COMPUTER VISION & DEEP LEARNING       │
+│ DHANUSH GOPI KAVALA | FULL-STACK MERN | AI/ML & COMPUTER VISION ENGINEER    │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -61,6 +61,41 @@ I am a **Results-Driven Computer Science Graduate & Software Engineer** speciali
 - 🧠 **AI/ML & Computer Vision:** End-to-end deep learning pipelines (YOLOv9, PyTorch, OpenCV, Flask) with research publications in international conferences.
 - 🚀 **Product Engineering Mindset:** Transforming complex algorithmic requirements into production-grade user experiences with strict adherence to CI/CD and cloud best practices.
 - 🤝 **Open To:** Full-Time Software Engineering Roles, AI/ML Engineering Positions, High-Impact Open-Source Collaborations, and Technical Leadership Opportunities.
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - 📖 Advanced System Design & Distributed Architecture
+  - 🧠 Deep Learning Pipeline Optimization with PyTorch
+Building:
+  - 🚀 Scalable MERN Microservices with Real-Time WebSockets
+  - ⚙️ Automated CI/CD Pipelines & Containerization
+Exploring:
+  - 🤖 Agentic AI Systems & Multi-Modal LLM Fine-Tuning
+  - ☁️ Cloud Native Infrastructure on AWS & Oracle OCI
+Open To:
+  - 💼 Full-Stack Software Engineering Roles (SDE)
+  - 🧠 AI/ML & Computer Vision Engineering Opportunities
+  - 🤝 High-Impact Open Source Collaborations
+```
+
+---
+
+## 🧩 Coding Profiles & Problem Solving
+
+<div align="center">
+
+| Platform | Domain / Specialty | Link |
+| :--- | :--- | :---: |
+| **LeetCode** | Data Structures & Algorithms | <a href="https://leetcode.com/u/dhanushgopi2456/"><img src="https://img.shields.io/badge/LeetCode-Solve_DSA_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a> |
+| **GeeksforGeeks** | Core DSA & Logic Building | <a href="https://www.geeksforgeeks.org/user/dhanushgopi2456/"><img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a> |
+| **HackerRank** | Problem Solving & Language Badges | <a href="https://www.hackerrank.com/profile/dhanushgopi2456"><img src="https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a> |
+| **CodeChef** | Timed Competitive Programming | <a href="https://www.codechef.com/users/dhanushgopi2456"><img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a> |
+
+</div>
 
 ---
 
@@ -250,27 +285,6 @@ Architecture Highlights:
 
 ---
 
-## 🧩 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/dhanushgopi2456/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve_DSA_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/dhanushgopi2456/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Data_Structures-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-<a href="https://www.hackerrank.com/profile/dhanushgopi2456">
-  <img src="https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-</a>
-<a href="https://www.codechef.com/users/dhanushgopi2456">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -327,26 +341,6 @@ Architecture Highlights:
   <p>2. Paste the automated workflow code provided in this project's <code>.github/workflows/snake.yml</code> file.</p>
   <p>3. Go to <b>Actions</b> tab on GitHub and run the <b>Generate Snake Contribution Grid</b> workflow once.</p>
 </details>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced System Design & Distributed Architecture
-  - Deep Learning Pipeline Optimization with PyTorch
-Building:
-  - Scalable MERN Microservices with Real-Time WebSockets
-  - Automated CI/CD Pipelines & Containerization
-Exploring:
-  - Agentic AI Systems & Multi-Modal LLM Fine-Tuning
-  - Cloud Native Infrastructure on AWS & Azure
-Open To:
-  - Full-Stack Software Engineering Roles (SDE)
-  - AI/ML & Computer Vision Engineering Opportunities
-  - High-Impact Open Source Collaborations
-```
 
 ---
 
