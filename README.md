@@ -9,8 +9,8 @@
 [![Education](https://img.shields.io/badge/Education-B.Tech_CSE_(CGPA:_9.04%2F10)-8A2BE2?style=for-the-badge&logo=academic-cap&logoColor=white)](https://github.com/dhanushgopi2456)
 [![Location](https://img.shields.io/badge/Location-Tadepalligudem%2C_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
-[![Live Website](https://img.shields.io/badge/Portfolio-Live_Website-6A057F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/dhanushgopi2456)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Live Website](https://img.shields.io/badge/Portfolio-Live_Website-6A057F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhanush-portfolio-site-pi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-gopi-kavala/)
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopidhanush615@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
 
@@ -143,16 +143,16 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 > *Click on any badge or title below to view/verify the original credential link.*
 
 ### ☁️ Cloud & Infrastructure
-- [![Oracle Cloud DevOps Professional](https://img.shields.io/badge/Oracle-DevOps_Professional_2025-F80000?style=flat-square&logo=oracle&logoColor=white)](YOUR_ORACLE_CERT_LINK_HERE) **[Oracle Cloud Infrastructure 2025 DevOps Professional](YOUR_ORACLE_CERT_LINK_HERE)** *(July 2025)*
-- [![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_(AI--900)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](YOUR_AZURE_CERT_LINK_HERE) **[Microsoft Azure AI Fundamentals (AI-900)](YOUR_AZURE_CERT_LINK_HERE)** *(May 2024)*
+- [![Oracle Cloud DevOps Professional](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Oracle_Devops_Certificate.pdf)](YOUR_ORACLE_CERT_LINK_HERE) **[Oracle Cloud Infrastructure 2025 DevOps Professional](YOUR_ORACLE_CERT_LINK_HERE)** *(July 2025)*
+- [![Microsoft Azure AI Fundamentals](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)](YOUR_AZURE_CERT_LINK_HERE) **[Microsoft Azure AI Fundamentals (AI-900)](YOUR_AZURE_CERT_LINK_HERE)** *(May 2024)*
 
 ### 🏢 Enterprise Systems & Platforms
-- [![Salesforce Agentforce Specialist](https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](YOUR_SALESFORCE_CERT_LINK_HERE) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
-- [![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-System_Administrator_(CSA)-293E40?style=flat-square&logo=servicenow&logoColor=white)](YOUR_SERVICENOW_CSA_LINK_HERE) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
-- [![ServiceNow CAD](https://img.shields.io/badge/ServiceNow-Application_Developer_(CAD)-293E40?style=flat-square&logo=servicenow&logoColor=white)](YOUR_SERVICENOW_CAD_LINK_HERE) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
+- [![Salesforce Agentforce Specialist](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)](YOUR_SALESFORCE_CERT_LINK_HERE) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
+- [![ServiceNow CSA](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCIS.pdf) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
+- [![ServiceNow CAD](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCAD.pdf)](YOUR_SERVICENOW_CAD_LINK_HERE) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
 
 ### 🎓 Academic & Algorithms
-- [![NPTEL DSA Java](https://img.shields.io/badge/NPTEL-DSA_using_Java-FF9933?style=flat-square&logo=nptel&logoColor=white)](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java](YOUR_NPTEL_CERT_LINK_HERE)** *(Oct 2024)*
+- [![NPTEL DSA Java](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Web%20based%20technologies%20and%20Multimedia%20applications%20Certificate%20by%20Swayam%20IGNOU.pdf)](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java](YOUR_NPTEL_CERT_LINK_HERE)** *(Oct 2024)*
 
 ---
 
@@ -172,10 +172,10 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 | Profile | Highlights & Focus Area |
 | :--- | :--- |
-| 🧩 **[LeetCode](https://leetcode.com)** | **Data Structures & Algorithms**: Solving complex DSA challenges and algorithmic logic. |
-| 🟢 **[GeeksforGeeks](https://geeksforgeeks.org)** | Practicing core Java & Python algorithmic logic and computer science fundamentals. |
+| 🧩 **[LeetCode](https://leetcode.com/u/Dhanush_Gopi/)** | **Data Structures & Algorithms**: Solving complex DSA challenges and algorithmic logic. |
+| 🟢 **[GeeksforGeeks](https://www.geeksforgeeks.org/profile/gopidhan1xwf)** | Practicing core Java & Python algorithmic logic and computer science fundamentals. |
 | 🎯 **[HackerRank](https://hackerrank.com)** | Certified in Java, Python & Problem Solving basics. |
-| ⚡ **[CodeChef](https://codechef.com)** | Participating in timed competitive programming contests. |
+| ⚡ **[Code Ninga 360](https://www.naukri.com/code360/profile/codewithdhanush)** | Participating in timed competitive programming contests. |
 
 </div>
 
