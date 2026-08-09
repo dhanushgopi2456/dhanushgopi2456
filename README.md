@@ -1,4 +1,4 @@
-readme_content = """<div align="center">
+<div align="center">
 
 <!-- HEADER BADGE / BANNER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vcenter=true&width=700&lines=DHANUSH+GOPI+KAVALA;Full-Stack+MERN+Engineer;AI%2FML+%26+Computer+Vision+Specialist" alt="Typing SVG" />
@@ -240,9 +240,4 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 <div align="center">
   <i>"Simplicity is prerequisite for reliability. Continuous innovation through clean software engineering."</i>
 </div>
-"""
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README.md generated successfully.")
