@@ -143,18 +143,16 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 > *Click on any badge or title below to view/verify the original credential link.*
 
 ### ☁️ Cloud & Infrastructure
-- [![Oracle Cloud DevOps Professional](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Oracle_Devops_Certificate.pdf](YOUR_ORACLE_CERT_LINK_HERE) **[Oracle Cloud Infrastructure 2025 DevOps Professional](YOUR_ORACLE_CERT_LINK_HERE)** *(July 2025)*
-- [![Microsoft Azure AI Fundamentals](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)](YOUR_AZURE_CERT_LINK_HERE) **[Microsoft Azure AI Fundamentals (AI-900)](YOUR_AZURE_CERT_LINK_HERE)** *(May 2024)*
+- [<img src="https://img.shields.io/badge/Oracle-DevOps_Professional_2025-F80000?style=flat-square&logo=oracle&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Oracle_Devops_Certificate.pdf) **[Oracle Cloud Infrastructure 2025 DevOps Professional](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Oracle_Devops_Certificate.pdf)** *(July 2025)*
+- [<img src="https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_(AI--900)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf) **[Microsoft Azure AI Fundamentals (AI-900)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)** *(May 2024)*
 
 ### 🏢 Enterprise Systems & Platforms
-- [![Salesforce Agentforce Specialist]()](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
-- [![ServiceNow CSA]()]([YOUR_SERVICENOW_CSA_LINK_HERE](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
-- [![ServiceNow CAD]()](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
+- [<img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf) **[Salesforce Agentforce Specialist](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)** *(Dec 2025)*
+- [<img src="https://img.shields.io/badge/ServiceNow-System_Administrator_(CSA)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CSA.pdf) **[ServiceNow Certified System Administrator (CSA)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CSA.pdf)** *(Sep 2025)*
+- [<img src="https://img.shields.io/badge/ServiceNow-Application_Developer_(CAD)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CAD.pdf) **[ServiceNow Certified Application Developer (CAD)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CAD.pdf)** *(Oct 2025)*
 
 ### 🎓 Academic & Algorithms
-- [![NPTEL DSA Java]()](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java]([YOUR_NPTEL_CERT_LINK_HERE](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf))** *(Oct 2024)*
-
----
+- [<img src="https://img.shields.io/badge/NPTEL-DSA_using_Java-FF9933?style=flat-square&logo=nptel&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NPTEL%20Java%20DSA.pdf) **[NPTEL: Data Structures & Algorithms using Java](https://github.com/dhanushgopi2456/My_Certifications/blob/main/NPTEL%20Java%20DSA.pdf)** *(Oct 2024)*
 
 ## 🏆 Achievements & Leadership
 
