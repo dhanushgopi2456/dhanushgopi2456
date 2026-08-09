@@ -147,12 +147,12 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 - [![Microsoft Azure AI Fundamentals](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)](YOUR_AZURE_CERT_LINK_HERE) **[Microsoft Azure AI Fundamentals (AI-900)](YOUR_AZURE_CERT_LINK_HERE)** *(May 2024)*
 
 ### 🏢 Enterprise Systems & Platforms
-- [![Salesforce Agentforce Specialist](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)](YOUR_SALESFORCE_CERT_LINK_HERE) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
-- [![ServiceNow CSA](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCIS.pdf)](YOUR_SERVICENOW_CSA_LINK_HERE) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
-- [![ServiceNow CAD](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCAD.pdf)](YOUR_SERVICENOW_CAD_LINK_HERE) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
+- [![Salesforce Agentforce Specialist]()](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
+- [![ServiceNow CSA]()]([YOUR_SERVICENOW_CSA_LINK_HERE](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
+- [![ServiceNow CAD]()](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
 
 ### 🎓 Academic & Algorithms
-- [![NPTEL DSA Java](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Web%20based%20technologies%20and%20Multimedia%20applications%20Certificate%20by%20Swayam%20IGNOU.pdf)](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java](YOUR_NPTEL_CERT_LINK_HERE)** *(Oct 2024)*
+- [![NPTEL DSA Java]()](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java]([YOUR_NPTEL_CERT_LINK_HERE](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf))** *(Oct 2024)*
 
 ---
 
