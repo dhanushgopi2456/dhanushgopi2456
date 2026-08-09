@@ -2,16 +2,16 @@
 <h3 align="center">Full Stack Developer (MERN) | AI/ML Enthusiast | CS Graduate</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><!-- update with your LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/dhanush-gopi-kavala/"><!-- update with your LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dhanushgopi2456">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-url.com"><!-- update with your portfolio URL -->
+  <a href=""><!-- update with your portfolio URL -->
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:gopidhanush615@gmail.com">
+  <a href="https://dhanush-portfolio-site-pi.vercel.app/">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
