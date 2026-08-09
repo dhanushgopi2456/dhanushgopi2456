@@ -720,17 +720,13 @@ Gemini is AI and can make mistakes.
 # 🚀 DHANUSH GOPI KAVALA
 ### **Full-Stack MERN Engineer · AI/ML & Computer Vision Specialist**
 
-<p align="center">
-  <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/Education-B.Tech_CSE_(CGPA:_9.04%2F10)-8A2BE2?style=for-the-badge&logo=academic-cap&logoColor=white" /></a>
-  <a href="https://maps.google.com"><img src="https://img.shields.io/badge/Location-Tadepalligudem%2C_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-</p>
+[![Education](https://img.shields.io/badge/Education-B.Tech_CSE_(CGPA:_9.04%2F10)-8A2BE2?style=for-the-badge&logo=academic-cap&logoColor=white)](https://github.com/dhanushgopi2456)
+[![Location](https://img.shields.io/badge/Location-Tadepalligudem%2C_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
-<p align="center">
-  <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/Portfolio-Live_Website-6A057F?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gopidhanush615@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+[![Live Website](https://img.shields.io/badge/Portfolio-Live_Website-6A057F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/dhanushgopi2456)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopidhanush615@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
 
 ---
 
@@ -783,12 +779,12 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="center">
-  <b>Unified Skill Icons</b><br/>
+<div align="center">
+  <p><b>Unified Skill Icons</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,vite,tailwind,nodejs,express,mongodb,flask,mysql,azure,git,github,postman,vscode&perline=9" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -861,16 +857,16 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 > *Click on any badge or title below to view/verify the original credential link.*
 
 ### ☁️ Cloud & Infrastructure
-- [<img src="https://img.shields.io/badge/Oracle-DevOps_Professional_2025-F80000?style=flat-square&logo=oracle&logoColor=white" />](YOUR_ORACLE_CERT_LINK_HERE) **[Oracle Cloud Infrastructure 2025 DevOps Professional](YOUR_ORACLE_CERT_LINK_HERE)** *(July 2025)*
-- [<img src="https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_(AI--900)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />](YOUR_AZURE_CERT_LINK_HERE) **[Microsoft Azure AI Fundamentals (AI-900)](YOUR_AZURE_CERT_LINK_HERE)** *(May 2024)*
+- [![Oracle Cloud DevOps Professional](https://img.shields.io/badge/Oracle-DevOps_Professional_2025-F80000?style=flat-square&logo=oracle&logoColor=white)](YOUR_ORACLE_CERT_LINK_HERE) **[Oracle Cloud Infrastructure 2025 DevOps Professional](YOUR_ORACLE_CERT_LINK_HERE)** *(July 2025)*
+- [![Microsoft Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_(AI--900)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)](YOUR_AZURE_CERT_LINK_HERE) **[Microsoft Azure AI Fundamentals (AI-900)](YOUR_AZURE_CERT_LINK_HERE)** *(May 2024)*
 
 ### 🏢 Enterprise Systems & Platforms
-- [<img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />](YOUR_SALESFORCE_CERT_LINK_HERE) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
-- [<img src="https://img.shields.io/badge/ServiceNow-System_Administrator_(CSA)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](YOUR_SERVICENOW_CSA_LINK_HERE) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
-- [<img src="https://img.shields.io/badge/ServiceNow-Application_Developer_(CAD)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](YOUR_SERVICENOW_CAD_LINK_HERE) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
+- [![Salesforce Agentforce Specialist](https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](YOUR_SALESFORCE_CERT_LINK_HERE) **[Salesforce Agentforce Specialist](YOUR_SALESFORCE_CERT_LINK_HERE)** *(Dec 2025)*
+- [![ServiceNow CSA](https://img.shields.io/badge/ServiceNow-System_Administrator_(CSA)-293E40?style=flat-square&logo=servicenow&logoColor=white)](YOUR_SERVICENOW_CSA_LINK_HERE) **[ServiceNow Certified System Administrator (CSA)](YOUR_SERVICENOW_CSA_LINK_HERE)** *(Sep 2025)*
+- [![ServiceNow CAD](https://img.shields.io/badge/ServiceNow-Application_Developer_(CAD)-293E40?style=flat-square&logo=servicenow&logoColor=white)](YOUR_SERVICENOW_CAD_LINK_HERE) **[ServiceNow Certified Application Developer (CAD)](YOUR_SERVICENOW_CAD_LINK_HERE)** *(Oct 2025)*
 
 ### 🎓 Academic & Algorithms
-- [<img src="https://img.shields.io/badge/NPTEL-DSA_using_Java-FF9933?style=flat-square&logo=nptel&logoColor=white" />](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java](YOUR_NPTEL_CERT_LINK_HERE)** *(Oct 2024)*
+- [![NPTEL DSA Java](https://img.shields.io/badge/NPTEL-DSA_using_Java-FF9933?style=flat-square&logo=nptel&logoColor=white)](YOUR_NPTEL_CERT_LINK_HERE) **[NPTEL: Data Structures & Algorithms using Java](YOUR_NPTEL_CERT_LINK_HERE)** *(Oct 2024)*
 
 ---
 
@@ -886,6 +882,8 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ## 💻 Coding Profiles & Problem Solving `<DSA & Competitive Coding>`
 
+<div align="center">
+
 | Profile | Highlights & Focus Area |
 | :--- | :--- |
 | 🧩 **[LeetCode](https://leetcode.com)** | **Data Structures & Algorithms**: Solving complex DSA challenges and algorithmic logic. |
@@ -893,34 +891,44 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 | 🎯 **[HackerRank](https://hackerrank.com)** | Certified in Java, Python & Problem Solving basics. |
 | ⚡ **[CodeChef](https://codechef.com)** | Participating in timed competitive programming contests. |
 
+</div>
+
 ---
 
 ## 📊 GitHub Analytics & Language Insights
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Dhanush's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushgopi2456&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Dhanush's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushgopi2456&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=dracula&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
+</a>
+
+</div>
 
 ---
 
 ## 📌 Contribution Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=dracula" alt="Contribution Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=dracula" alt="Contribution Graph" />
+
+</div>
 
 ---
 
@@ -938,17 +946,19 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ## 📬 Connect & Collaborate
 
-<p align="center">
-  <a href="mailto:gopidhanush615@gmail.com"><img src="https://img.shields.io/badge/Gmail-gopidhanush615%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-dhanushgopi2456-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/dhanushgopi2456"><img src="https://img.shields.io/badge/Portfolio-Dhanush_Gopi_Kavala-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-gopidhanush615%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopidhanush615@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushgopi2456-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Dhanush_Gopi_Kavala-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/dhanushgopi2456)
+
+</div>
 
 <br>
 
-<p align="center">
+<div align="center">
   <i>"Simplicity is prerequisite for reliability. Continuous innovation through clean software engineering."</i>
-</p>
+</div>
 README.md
 Displaying README.md.
