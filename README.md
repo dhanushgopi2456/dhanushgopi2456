@@ -290,7 +290,9 @@ Architecture Highlights:
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="100%" />
+  <a href="https://github.com/dhanushgopi2456">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="100%" />
+  </a>
 
 </div>
 
@@ -310,9 +312,21 @@ Architecture Highlights:
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/dhanushgopi2456/dhanushgopi2456/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanushgopi2456/dhanushgopi2456/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanushgopi2456/dhanushgopi2456/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/dhanushgopi2456/dhanushgopi2456/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 
 </div>
+
+<details>
+  <summary><b>⚙️ How to enable the Snake Animation Action on your GitHub Repo</b></summary>
+  <br />
+  <p>1. Create a file named <code>.github/workflows/snake.yml</code> in your <code>dhanushgopi2456/dhanushgopi2456</code> repository.</p>
+  <p>2. Paste the automated workflow code provided in this project's <code>.github/workflows/snake.yml</code> file.</p>
+  <p>3. Go to <b>Actions</b> tab on GitHub and run the <b>Generate Snake Contribution Grid</b> workflow once.</p>
+</details>
 
 ---
 
