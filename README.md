@@ -174,6 +174,7 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 | 🟢 **[GeeksforGeeks](https://www.geeksforgeeks.org/profile/gopidhan1xwf)** | Practicing core Java & Python algorithmic logic and computer science fundamentals. |
 | 🎯 **[HackerRank](https://www.hackerrank.com/profile/gopidhanush615)** | Certified in Java, Python & Problem Solving basics. |
 | ⚡ **[Code Ninga 360](https://www.naukri.com/code360/profile/codewithdhanush)** | Participating in timed competitive programming contests. |
+| 📋 **[Codolio](https://codolio.com/profile/codewithdnush)** | Unified Coding Performance Metrics across platforms. |
 
 </div>
 
