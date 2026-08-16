@@ -180,33 +180,6 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ---
 
-## 📊 GitHub Analytics & Language Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Dhanush's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushgopi2456&theme=dracula&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=dracula&no-frame=true&column=6" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
-
 ## 📌 Contribution Activity Graph
 
 <div align="center">
