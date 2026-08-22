@@ -87,15 +87,15 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ## 📂 Featured Projects
 
-### 🛒 [FreshMart — Full-Stack E-Commerce Grocery Platform](https://github.com/dhanushgopi2456/FreshMart)
+### 🛒 [FreshMart — Full-Stack E-Commerce Grocery Platform](https://github.com/dhanushgopi2456/FreshMart-v2)
 > **FreshMart** is an enterprise e-commerce platform built on the MERN stack featuring real-time inventory tracking, secure token-based user authentication, and an administrative dashboard for catalog management.
 
-- **Stack**: React.js, Vite, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS
+- **Stack**: React.js, TypeScript , Vite, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS
 - **Scale**: Multi-role user access (Customer & Administrator), inventory catalog tracking
 - **Performance**: Optimized client bundles via Vite, indexing on MongoDB schemas for fast query resolution
 - **Security**: JWT Authentication, HTTP-only cookie sessions, bcrypt password hashing
 - **Impact**: Full end-to-end purchasing workflow with admin inventory control dashboard
-- **Repository**: [github.com/dhanushgopi2456/FreshMart](https://github.com/dhanushgopi2456/FreshMart)
+- **Repository**: [github.com/dhanushgopi2456/FreshMart](https://github.com/dhanushgopi2456/FreshMart-v2)
 
 <details>
 <summary><b>Architecture Highlights</b></summary>
