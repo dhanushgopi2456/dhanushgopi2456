@@ -107,7 +107,7 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ---
 
-### 📋 [Team Task Manager — Collaborative Enterprise Task Management Engine](https://github.com/dhanushgopi2456/Team-Task-Manager)
+### 📋 [Team Task Manager — Collaborative Enterprise Task Management Engine](https://github.com/dhanushgopi2456/team-task-manager-v2)
 > Architected a collaborative, multi-user task management system featuring JWT-based Role-Based Access Control (RBAC) and modular backend architecture.
 
 - **Stack**: React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, Tailwind CSS
