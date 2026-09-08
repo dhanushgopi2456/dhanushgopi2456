@@ -112,7 +112,7 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 - **Stack**: React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, Tailwind CSS
 - **Features**: Real-time state updates, custom filters, role-based controls, responsive UI
-- **Repository**: [github.com/dhanushgopi2456/Team-Task-Manager](https://github.com/dhanushgopi2456/Team-Task-Manager)
+- **Repository**: [github.com/dhanushgopi2456/Team-Task-Manager](https://github.com/dhanushgopi2456/team-task-manager-v2)
 
 ---
 
