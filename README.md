@@ -194,8 +194,8 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=react-dark&area=true&hide_border=true&days=31"
-    alt="GitHub Contribution Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=github-compact&area=false&hide_border=true&days=31"
+    alt="Dhanush's GitHub Activity Graph"
   />
 </p>
 
