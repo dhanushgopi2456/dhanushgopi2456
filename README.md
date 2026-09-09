@@ -194,8 +194,9 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph-kappa-nine.vercel.app/graph?username=dhanushgopi2456&theme=github-compact&area=false&hide_border=true"
-    alt="Dhanush's GitHub Activity Graph"
+    src="https://github-readme-activity-graph-kappa-nine.vercel.app/graph?username=dhanushgopi2456&theme=github-compact&area=false&hide_border=true&custom_title=Dhanush%20Gopi%20Kavala's%20Contribution%20Activity"
+    alt="Dhanush Gopi Kavala's GitHub Contribution Activity"
+    width="100%"
   />
 </p>
 
