@@ -202,12 +202,13 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=flat&no-frame=true&margin-w=10"
-    alt="Dhanush Gopi Kavala GitHub Trophies"
+    src="https://dhanush-github-trophies.vercel.app/api/trophies?username=dhanushgopi2456"
+    alt="GitHub Achievements"
+    width="100%"
   />
 </p>
 
