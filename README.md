@@ -96,6 +96,7 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 - **Security**: JWT Authentication, HTTP-only cookie sessions, bcrypt password hashing
 - **Impact**: Full end-to-end purchasing workflow with admin inventory control dashboard
 - **Repository**: [github.com/dhanushgopi2456/FreshMart](https://github.com/dhanushgopi2456/FreshMart-v2)
+- **Live Demo**: [https://fresh-mart-v2.vercel.app](https://fresh-mart-v2.vercel.app)
 
 <details>
 <summary><b>Architecture Highlights</b></summary>
@@ -113,6 +114,14 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 - **Stack**: React.js, Node.js, Express.js, MongoDB, Mongoose, JWT, Tailwind CSS
 - **Features**: Real-time state updates, custom filters, role-based controls, responsive UI
 - **Repository**: [github.com/dhanushgopi2456/Team-Task-Manager](https://github.com/dhanushgopi2456/team-task-manager-v2)
+- **Live Demo**: [https://client-psi-three-59.vercel.app](https://client-psi-three-59.vercel.app)
+
+<details>
+<summary><b>Architecture Highlights</b></summary>
+- Built with React, Express, TypeScript, and MongoDB using a clean full-stack architecture.
+- Implemented secure JWT authentication and role-based access control across the platform.
+- Designed modular frontend and backend components for scalability and easy maintenance.
+</details>
 
 ---
 
