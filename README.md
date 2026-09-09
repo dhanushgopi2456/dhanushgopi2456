@@ -202,6 +202,17 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=dhanushgopi2456&theme=flat&no-frame=true&margin-w=10"
+    alt="Dhanush Gopi Kavala GitHub Trophies"
+  />
+</p>
+
+---
+
 ## 🎯 Current Focus & Roadmap `<Active 2026 Goals>`
 
 | 📖 Currently Learning | 🚀 Currently Building |
