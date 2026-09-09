@@ -192,11 +192,12 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 ## 📌 Contribution Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=dracula" alt="Contribution Graph" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhanushgopi2456&theme=react-dark&area=true&hide_border=true&days=31"
+    alt="GitHub Contribution Activity"
+  />
+</p>
 
 ---
 
