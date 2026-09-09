@@ -118,6 +118,7 @@ I am a passionate **Software Engineer** specializing in enterprise-grade **Full-
 
 <details>
 <summary><b>Architecture Highlights</b></summary>
+  
 - Built with React, Express, TypeScript, and MongoDB using a clean full-stack architecture.
 - Implemented secure JWT authentication and role-based access control across the platform.
 - Designed modular frontend and backend components for scalability and easy maintenance.
