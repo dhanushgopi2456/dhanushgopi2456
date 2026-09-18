@@ -680,7 +680,7 @@ I am interested in working on products where software engineering, scalable arch
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for visiting my GitHub profile
 
 If you find my projects interesting, feel free to explore the repositories and connect with me.
 
