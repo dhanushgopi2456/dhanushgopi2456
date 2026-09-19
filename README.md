@@ -182,31 +182,67 @@ My backend development experience includes designing APIs and application servic
 * API testing with Postman
 * Environment-based configuration
 
-### Example Application Flow
+### 🔗 Backend Request Flow
+
+✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
+　　　　　　　　🔐 **BACKEND REQUEST FLOW**
+✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 
 ```text
-Client
-  │
-  ▼
-React / TypeScript Frontend
-  │
-  ▼
-REST API
-  │
-  ▼
-Express.js Middleware
-  │
-  ├── Authentication
-  ├── Authorization
-  ├── Validation
-  └── Error Handling
-  │
-  ▼
-Business Logic
-  │
-  ▼
-MongoDB / MySQL
+                         👤
+                    👤 CLIENT
+                         │
+                         ▼
+              ╭─────────────────────╮
+              │ 🌐 FRONTEND         │
+              │ React + TypeScript  │
+              ╰──────────┬──────────╯
+                         │
+                    🔗 API REQUEST
+                         │
+                         ▼
+              ╭─────────────────────╮
+              │ 🚀 REST API         │
+              │ GET • POST • PUT    │
+              │ DELETE              │
+              ╰──────────┬──────────╯
+                         │
+                         ▼
+        ┌─────────────────────────────────┐
+        │ ⚙️ EXPRESS.JS MIDDLEWARE        │
+        │                                 │
+        │ 🔑 Authentication               │
+        │ 🛡️ Authorization                │
+        │ ✅ Validation                   │
+        │ 🚨 Error Handling               │
+        └────────────────┬────────────────┘
+                         │
+                         ▼
+              ╭─────────────────────╮
+              │ 🧠 BUSINESS LOGIC   │
+              │ Controllers +       │
+              │ Services             │
+              ╰──────────┬──────────╯
+                         │
+                         ▼
+              ╭─────────────────────╮
+              │ 🗄️ DATABASE         │
+              │ MongoDB / MySQL     │
+              ╰──────────┬──────────╯
+                         │
+                         ▼
+              ╭─────────────────────╮
+              │ 📦 JSON RESPONSE    │
+              │ Data + Status       │
+              ╰──────────┬──────────╯
+                         │
+                         ▼
+                    🎨 UI UPDATE
 ```
+
+✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
+　　　　　　　⚡ **SECURE • SCALABLE • MODULAR**
+✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 
 ---
 
@@ -223,36 +259,64 @@ MongoDB / MySQL
 
 ---
 
-## 🔬 Computer Vision Pipeline
+## 👁️ Computer Vision Pipeline
+
+╔══════════════════════════════════════════════════════════╗
+║　　　　　　　👁️ **COMPUTER VISION PIPELINE**　　　　　　║
+╚══════════════════════════════════════════════════════════╝
 
 ```text
-Input Image / Video
-        │
-        ▼
-Image Preprocessing
-        │
-        ▼
-Frame / Image Transformation
-        │
-        ▼
-YOLOv9 Model
-        │
-        ▼
-Object Detection
-        │
-        ├── Bounding Boxes
-        ├── Class Labels
-        └── Confidence Scores
-        │
-        ▼
-OpenCV Processing
-        │
-        ▼
-Flask Web Application
-        │
-        ▼
-Detection Result
+                       📷
+                IMAGE / VIDEO INPUT
+                       │
+                       ▼
+              ┌───────────────────┐
+              │ 🧹 PREPROCESSING  │
+              │ Resize • Normalize│
+              └─────────┬─────────┘
+                        │
+                        ▼
+              ┌───────────────────┐
+              │ 🎞️ FRAME          │
+              │ TRANSFORMATION    │
+              └─────────┬─────────┘
+                        │
+                        ▼
+              ┌───────────────────┐
+              │ 🧠 YOLOv9 MODEL   │
+              │ ⚡ PyTorch        │
+              └─────────┬─────────┘
+                        │
+                        ▼
+          ┌─────────────────────────────┐
+          │ 🎯 OBJECT DETECTION         │
+          │                             │
+          │ 📦 Bounding Boxes           │
+          │ 🏷️ Class Labels             │
+          │ 📊 Confidence Scores        │
+          └─────────────┬───────────────┘
+                        │
+                        ▼
+              ┌───────────────────┐
+              │ 👁️ OPENCV         │
+              │ Draw • Track      │
+              │ Annotate          │
+              └─────────┬─────────┘
+                        │
+                        ▼
+              ┌───────────────────┐
+              │ 🌐 FLASK          │
+              │ WEB APPLICATION   │
+              └─────────┬─────────┘
+                        │
+                        ▼
+                  ┌───────────┐
+                  │ ✅ RESULT  │
+                  │ 🎯 DETECTED│
+                  └───────────┘
 ```
+
+🚀 **YOLOv9 + PyTorch + OpenCV + Flask** 🚀
 
 ---
 
@@ -272,7 +336,7 @@ Detection Result
 * **Live Demo**: https://fresh-mart-v2.vercel.app
 
 <details>
-<summary><b>Architecture Highlights</b></summary>
+<summary><b>🏗️ Architecture Highlights</b></summary>
 
 * Modular MVC-inspired backend structure.
 * Separate models, routes, controllers, and middleware responsibilities.
@@ -298,7 +362,7 @@ Detection Result
 * **Live Demo**: https://client-psi-three-59.vercel.app
 
 <details>
-<summary><b>Architecture Highlights</b></summary>
+<summary><b>🏗️ Architecture Highlights</b></summary>
 
 * Full-stack TypeScript architecture.
 * Authentication and authorization middleware.
@@ -420,20 +484,20 @@ Alongside application development, I continuously strengthen my fundamentals in:
 ### DSA Areas
 
 ```text
-Arrays
-Strings
-Linked Lists
-Stacks & Queues
-Hashing
-Trees
-Binary Search Trees
-Graphs
-Recursion
-Backtracking
-Dynamic Programming
-Greedy Algorithms
-Sorting & Searching
-Bit Manipulation
+📦 Arrays
+🔤 Strings
+🔗 Linked Lists
+📚 Stacks & Queues
+#️⃣ Hashing
+🌳 Trees
+🌲 Binary Search Trees
+🕸️ Graphs
+🔁 Recursion
+🧩 Backtracking
+🧠 Dynamic Programming
+💰 Greedy Algorithms
+🔎 Sorting & Searching
+⚡ Bit Manipulation
 ```
 
 ---
@@ -464,38 +528,61 @@ Bit Manipulation
 
 ---
 
-## 📊 Development Workflow
+## 🚀 Software Development Lifecycle
+
+╭──────────────────────────────────────────────────────────╮
+│　　　　　　🚀 **SOFTWARE DEVELOPMENT LIFECYCLE**　　　　　│
+╰──────────────────────────────────────────────────────────╯
 
 ```text
-Idea / Requirement
-        │
-        ▼
-Problem Analysis
-        │
-        ▼
-System & Database Design
-        │
-        ▼
-Frontend + Backend Development
-        │
-        ▼
-API Integration
-        │
-        ▼
-Testing & Debugging
-        │
-        ▼
-Performance & Security Review
-        │
-        ▼
-Git / GitHub
-        │
-        ▼
-Deployment
-        │
-        ▼
-Monitoring & Continuous Improvement
+                         💡 IDEA
+                           │
+                           ▼
+                 🔍 REQUIREMENT ANALYSIS
+                           │
+                           ▼
+                 🏗️ SYSTEM ARCHITECTURE
+                           │
+                           ▼
+                 🎨 UI + DATABASE DESIGN
+                           │
+                           ▼
+                      💻 DEVELOPMENT
+                  ┌────────┴────────┐
+                  ▼                 ▼
+             🎨 FRONTEND       ⚙️ BACKEND
+             React / TS       Node / Express
+                  │                 │
+                  └────────┬────────┘
+                           ▼
+                    🔗 API INTEGRATION
+                           │
+                           ▼
+                       🧪 TESTING
+                           │
+                           ▼
+                  🐞 DEBUGGING & FIXES
+                           │
+                           ▼
+                       🔐 SECURITY
+                           │
+                           ▼
+                    ⚡ OPTIMIZATION
+                           │
+                           ▼
+                    🔀 GIT / GITHUB
+                           │
+                           ▼
+                      🚀 DEPLOYMENT
+                           │
+                           ▼
+                  📈 MONITOR & IMPROVE
+                           │
+                           ▼
+                      🎯 PRODUCTION
 ```
+
+💡 **BUILD** → 🧪 **TEST** → 🚀 **SHIP** → 📈 **IMPROVE**
 
 ---
 
@@ -572,40 +659,45 @@ My projects generally focus on:
 
 ---
 
-## 🚀 2026 Learning Roadmap
+## 🌟 2026 Engineering Roadmap
+
+✨ ═════════════════════════════════════════════════════ ✨
+　　　　　　🚀 **2026 ENGINEERING ROADMAP**
+✨ ═════════════════════════════════════════════════════ ✨
 
 ```text
-                    2026 ENGINEERING ROADMAP
-
-                         ┌───────────────┐
-                         │ Full-Stack    │
-                         │ Engineering   │
-                         └───────┬───────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              ▼                  ▼                  ▼
-        ┌───────────┐      ┌───────────┐      ┌───────────┐
-        │ Backend   │      │ System    │      │ Frontend  │
-        │ Architecture│    │ Design    │      │ Engineering│
-        └─────┬─────┘      └─────┬─────┘      └───────────┘
-              │                  │
-              ▼                  ▼
-        ┌───────────┐      ┌─────────────┐
-        │Microservices│    │ Distributed │
-        │ & APIs      │    │ Systems     │
-        └─────┬─────┘      └──────┬──────┘
-              │                   │
-              └─────────┬─────────┘
-                        ▼
-                 ┌───────────────┐
-                 │ Cloud & DevOps│
-                 └───────┬───────┘
+                         🧑‍💻
+                  FULL-STACK ENGINEERING
                          │
-                         ▼
-                 ┌───────────────┐
-                 │ AI / ML / CV  │
-                 └───────────────┘
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+     ⚙️ BACKEND     🏗️ SYSTEM       🎨 FRONTEND
+     ARCHITECTURE     DESIGN          ENGINEERING
+          │              │
+          ▼              ▼
+     🔗 MICROSERVICES   🌐 DISTRIBUTED
+        + APIs            SYSTEMS
+          │              │
+          └───────┬──────┘
+                  ▼
+          ☁️ CLOUD & DEVOPS
+                  │
+          ┌───────┴────────┐
+          ▼                ▼
+       🔄 CI/CD        📦 CONTAINERS
+          │                │
+          └───────┬────────┘
+                  ▼
+             🤖 AI / ML / CV
+                  │
+                  ▼
+          🧠 INTELLIGENT SYSTEMS
+                  │
+                  ▼
+             🚀 PRODUCTION
 ```
+
+🌱 **LEARN** → 🛠️ **BUILD** → 🧪 **TEST** → ☁️ **DEPLOY** → 📈 **SCALE**
 
 ---
 
@@ -644,24 +736,80 @@ I am particularly interested in opportunities where I can contribute to **real-w
 ### Areas of Interest
 
 ```text
-Full-Stack Development
-        ↓
-Backend Engineering
-        ↓
-MERN / TypeScript
-        ↓
-REST API Development
-        ↓
-System Design
-        ↓
-Cloud & DevOps
-        ↓
-AI / ML Engineering
-        ↓
-Computer Vision
+                 💻 FULL-STACK DEVELOPMENT
+                           │
+                           ▼
+                    ⚙️ BACKEND ENGINEERING
+                           │
+                           ▼
+                    🟢 MERN / TYPESCRIPT
+                           │
+                           ▼
+                    🔗 REST API DEVELOPMENT
+                           │
+                           ▼
+                      🏗️ SYSTEM DESIGN
+                           │
+                           ▼
+                       ☁️ CLOUD & DEVOPS
+                           │
+                           ▼
+                       🤖 AI / ML
+                           │
+                           ▼
+                    👁️ COMPUTER VISION
+                           │
+                           ▼
+                      🚀 PRODUCTION
 ```
 
 I am interested in working on products where software engineering, scalable architecture, automation, and intelligent systems come together.
+
+---
+
+## 📊 Engineering Skill Map
+
+```text
+                         🧑‍💻 SOFTWARE ENGINEERING
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+              ▼                   ▼                   ▼
+        🎨 FRONTEND           ⚙️ BACKEND          🤖 AI / ML
+              │                   │                   │
+        React / Vite        Node / Express       PyTorch
+        TypeScript          REST APIs             YOLOv9
+        Tailwind            Authentication        OpenCV
+        Redux               RBAC                  NumPy
+              │                   │                   │
+              └───────────────────┼───────────────────┘
+                                  ▼
+                           🗄️ DATA SYSTEMS
+                                  │
+                         MongoDB / MySQL
+                                  │
+                                  ▼
+                           ☁️ DEPLOYMENT
+                                  │
+                         Vercel / Cloud
+                                  │
+                                  ▼
+                           🚀 PRODUCTION
+```
+
+---
+
+## 🔥 My Engineering Mindset
+
+<div align="center">
+
+|  🧠 THINK  | 🛠️ BUILD |  🧪 TEST | 🐞 DEBUG | 🚀 SHIP |
+| :--------: | :-------: | :------: | :------: | :-----: |
+| Understand | Implement | Validate |  Improve |  Deploy |
+
+</div>
+
+> **Every bug is a learning opportunity. Every project is a chance to improve.**
 
 ---
 
