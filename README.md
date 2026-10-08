@@ -42,21 +42,21 @@ My development approach combines **strong programming fundamentals, clean archit
 
 <div align="center">
 
-| Area                    | Details                                        |
-| :---------------------- | :--------------------------------------------- |
-| 🎓 Education            | B.Tech — Computer Science & Engineering        |
-| 📊 Academic Performance | **9.04 / 10 CGPA**                             |
-| 💻 Primary Stack        | **MERN + TypeScript**                          |
-| 🧠 Programming          | Java · Python · C++ · JavaScript · TypeScript  |
-| 🎨 Frontend             | React.js · Vite · Tailwind CSS · Redux Toolkit |
-| ⚙️ Backend              | Node.js · Express.js · Flask · Spring Boot     |
-| 🗄️ Databases           | MongoDB · MySQL                                |
-| 🤖 AI / ML              | PyTorch · YOLOv9 · OpenCV · NumPy              |
-| ☁️ Cloud                | Microsoft Azure · Oracle Cloud                 |
-| 🔐 Security             | JWT · RBAC · HTTP-only Cookies · bcrypt        |
-| 🧪 API Development      | REST APIs · Postman                            |
-| 🔧 Version Control      | Git · GitHub                                   |
-| 📌 Current Direction    | Full-Stack Engineering + AI/ML                 |
+| Area                    | Details                                                  |
+| :---------------------- | :------------------------------------------------------- |
+| 🎓 Education            | B.Tech — Computer Science & Engineering                  |
+| 📊 Academic Performance | **9.04 / 10 CGPA**                                       |
+| 💻 Primary Stack        | **MERN + TypeScript**                                    |
+| 🧠 Programming          | Java · Python · C++ · JavaScript · TypeScript            |
+| 🎨 Frontend             | React.js · Vite · Tailwind CSS · Redux Toolkit           |
+| ⚙️ Backend              | Node.js · Express.js · Django · Flask · Spring Boot      |
+| 🗄️ Databases            | MongoDB · MySQL                                          |
+| 🤖 AI / ML              | PyTorch · YOLOv9 · OpenCV · NumPy                        |
+| ☁️ Cloud                | Microsoft Azure · Oracle Cloud                           |
+| 🔐 Security             | JWT · RBAC · HTTP-only Cookies · bcrypt                  |
+| 🧪 API Development      | REST APIs · Postman                                      |
+| 🔧 Version Control      | Git · GitHub                                             |
+| 📌 Current Direction    | Full-Stack Engineering + AI/ML                           |
 
 </div>
 
