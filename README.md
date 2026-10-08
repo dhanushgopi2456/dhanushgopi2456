@@ -589,19 +589,19 @@ Alongside application development, I continuously strengthen my fundamentals in:
 
 ## 🧰 Developer Toolkit
 
-| Category              | Tools                                |
-| :-------------------- | :----------------------------------- |
-| 💻 IDE                | VS Code                              |
-| 🔀 Version Control    | Git, GitHub                          |
-| 🧪 API Testing        | Postman                              |
-| 🌐 Frontend           | React, Vite, Tailwind                |
-| ⚙️ Backend            | Node.js, Express, Flask, Spring Boot |
-| 🗄️ Database          | MongoDB, MySQL                       |
-| 🤖 AI/ML              | PyTorch, YOLOv9, OpenCV              |
-| ☁️ Cloud              | Azure, Oracle Cloud, Vercel          |
-| 📦 Package Management | npm                                  |
-| 🐍 Python Ecosystem   | NumPy, Pandas, Matplotlib, Seaborn   |
-| 🧠 Development        | OOP, REST APIs, MVC, RBAC            |
+| Category              | Tools                                           |
+| :-------------------- | :---------------------------------------------- |
+| 💻 IDE                | VS Code                                         |
+| 🔀 Version Control    | Git, GitHub                                     |
+| 🧪 API Testing        | Postman                                         |
+| 🌐 Frontend           | React, Vite, Tailwind                           |
+| ⚙️ Backend            | Node.js, Express, Django, Flask, Spring Boot    |
+| 🗄️ Database           | MongoDB, MySQL                                  |
+| 🤖 AI/ML              | PyTorch, YOLOv9, OpenCV                         |
+| ☁️ Cloud              | Azure, Oracle Cloud, Vercel                     |
+| 📦 Package Management | npm                                             |
+| 🐍 Python Ecosystem   | NumPy, Pandas, Matplotlib, Seaborn              |
+| 🧠 Development        | OOP, REST APIs, MVC, RBAC                       |
 
 ---
 
