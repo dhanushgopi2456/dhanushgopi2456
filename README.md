@@ -263,7 +263,7 @@ My backend development experience includes designing APIs and application servic
 ## 👁️ Computer Vision Pipeline
 
 ╔══════════════════════════════════════════════════════════╗
-║　　　　　　　👁️ **COMPUTER VISION PIPELINE**　　　　　　║
+║　　　　　　　👁️ **COMPUTER VISION PIPELINE**　　　　　   　║
 ╚══════════════════════════════════════════════════════════╝
 
 ```text
@@ -532,7 +532,7 @@ Alongside application development, I continuously strengthen my fundamentals in:
 ## 🚀 Software Development Lifecycle
 
 ╭──────────────────────────────────────────────────────────╮
-│　　　　　　🚀 **SOFTWARE DEVELOPMENT LIFECYCLE**　　　　　│
+│　　　　　　🚀 **SOFTWARE DEVELOPMENT LIFECYCLE**　　　　　 │
 ╰──────────────────────────────────────────────────────────╯
 
 ```text
