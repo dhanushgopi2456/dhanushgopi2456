@@ -405,7 +405,7 @@ Alongside application development, I continuously strengthen my fundamentals in:
 
 ### DSA Areas
 
-![Backend Request Flow architecture flowchart](https://mermaid.ink/img/pako:TZLLbtswEEV_ZSADRYsqrV6WZS8K6OGHjDZx42QVZUFTQ0etTAoi1cYI8u-hZcnWhhiS91zeGfDNoCJHY2awUvynL6RW8JBkPHzKmjxwc71S34O4LJCrZ7i5-QGRvnL86S5rGFoM7pFQBV_h4VjhltZFpZ4zHrXK-GqS2xMIXwshIdykvV3G41aXnB2nneP8tapRym9_pLa91el0pbVJq50PPS0IG_WirQpKVCE4fIL7KIwv4sVZjCcxWhA1suDaGbZY_ysoXl2Xg3Z3LmzI8aBdIeUK93VrraXzVrp6-nxNQL0u80ZIta9x-_snfIdfgu9FEp2qoz75otnFmc34si9WbZEOHkYf1tu7Wz1RWQkuUWNpK1qfRVSvjATwmMJjlRN1EtCSSJkgA9qOFFhRlrNRvkPC0JSqFn9xNnLGvos7k4pS1LORjS4JyAAlVdFxuhNnwFlO4NFJz1nUIz4OOHmeYscyFwPGLuzUdV0kPTsObBpMBmy-66NSRnFywWyfuN4Fs72x6-QdBqEZdW32J7GZnNL327m5MJdmaq77aP3FSr9nmMYB6wMpcmP2Zuhfczj9eo6NqklpvL9_AA?bgColor=!ffffff)
+![Backend Request Flow architecture flowchart](https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/DSA%20Areas%20Flowchart.png)
 
 ---
 
