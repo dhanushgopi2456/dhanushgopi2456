@@ -206,7 +206,7 @@ My backend development experience includes designing APIs and application servic
 ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 
 <p align="center">
-  <img src="./profile-readme-assets/backend-request-flow.svg" alt="Animated backend request flowchart" width="100%" />
+  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/backend-request-flow.svg" alt="Animated backend request flowchart" width="100%" />
 </p>
 
 ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
@@ -235,7 +235,7 @@ My backend development experience includes designing APIs and application servic
 ╚══════════════════════════════════════════════════════════╝
 
 <p align="center">
-  <img src="./profile-readme-assets/computer-vision-pipeline.svg" alt="Computer vision pipeline flowchart" width="100%" />
+  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/computer-vision-pipeline.svg" alt="Computer vision pipeline flowchart" width="100%" />
 </p>
 
 🚀 **YOLOv9 + PyTorch + OpenCV + Flask** 🚀
@@ -442,7 +442,7 @@ Alongside application development, I continuously strengthen my fundamentals in:
 ╰──────────────────────────────────────────────────────────╯
 
 <p align="center">
-  <img src="./profile-readme-assets/software-development-lifecycle.svg" alt="Software development lifecycle flowchart" width="100%" />
+  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/engineering-lifecycle.svg" alt="Software development lifecycle flowchart" width="100%" />
 </p>
 
 💡 **BUILD** → 🧪 **TEST** → 🚀 **SHIP** → 📈 **IMPROVE**
@@ -529,7 +529,7 @@ My projects generally focus on:
 ✨ ═════════════════════════════════════════════════════ ✨
 
 <p align="center">
-  <img src="./profile-readme-assets/engineering-roadmap.svg" alt="2026 engineering roadmap flowchart" width="100%" />
+  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/2026-engineering-roadmap.svg" alt="2026 engineering roadmap flowchart" width="100%" />
 </p>
 
 🌱 **LEARN** → 🛠️ **BUILD** → 🧪 **TEST** → ☁️ **DEPLOY** → 📈 **SCALE**
@@ -571,7 +571,7 @@ I am particularly interested in opportunities where I can contribute to **real-w
 ### Areas of Interest
 
 <p align="center">
-  <img src="./profile-readme-assets/career-focus.svg" alt="Career areas of interest flowchart" width="100%" />
+  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/Areas%20of%20Interest%20Career%20Mindmap.png" alt="Career areas of interest flowchart" width="100%" />
 </p>
 
 I am interested in working on products where software engineering, scalable architecture, automation, and intelligent systems come together.
@@ -581,7 +581,7 @@ I am interested in working on products where software engineering, scalable arch
 ## 📊 Engineering Skill Map
 
 <p align="center">
-  <img src="./profile-readme-assets/engineering-skill-map.svg" alt="Engineering skill map flowchart" width="100%" />
+  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/engineering-skill-map.svg" alt="Engineering skill map flowchart" width="100%" />
 </p>
 
 ---
