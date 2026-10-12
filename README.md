@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Animated profile banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090979,50:7B2FF7,100:F107A3&text=DHANUSH%20GOPI%20KAVALA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineering%20%7C%20AI%2FML%20%7C%20Computer%20Vision&descAlignY=59&animation=twinkling" width="100%" alt="Animated gradient profile banner" />
+
 <!-- HEADER BADGE / BANNER -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vcenter=true&width=700&lines=DHANUSH+GOPI+KAVALA;Full-Stack+MERN+Engineer;AI%2FML+%26+Computer+Vision+Specialist" alt="Typing SVG" />
@@ -50,7 +53,7 @@ My development approach combines **strong programming fundamentals, clean archit
 | 🧠 Programming          | Java · Python · C++ · JavaScript · TypeScript            |
 | 🎨 Frontend             | React.js · Vite · Tailwind CSS · Redux Toolkit           |
 | ⚙️ Backend              | Node.js · Express.js · Django · Flask · Spring Boot      |
-| 🗄️ Databases            | MongoDB · MySQL                                          |
+| 🗄️ Databases            | PostgreSQL · MongoDB · MySQL                                          |
 | 🤖 AI / ML              | PyTorch · YOLOv9 · OpenCV · NumPy                        |
 | ☁️ Cloud                | Microsoft Azure · Oracle Cloud                           |
 | 🔐 Security             | JWT · RBAC · HTTP-only Cookies · bcrypt                  |
@@ -127,6 +130,16 @@ I focus on building software that combines **good user experience with reliable 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### 🗃️ SQL & Relational Database Keywords
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Keywords:** PostgreSQL, SQL, relational databases, schema design, tables, primary keys, foreign keys, joins, aggregate functions, subqueries, indexes, constraints, normalization, transactions, CRUD operations, query optimization, database design.
+
+> PostgreSQL is included in the skills and keyword sections; mention hands-on PostgreSQL project experience only where it reflects work you have actually completed.
 
 ### ☁️ Cloud, DevOps & Developer Tooling
 
@@ -139,7 +152,7 @@ I focus on building software that combines **good user experience with reliable 
 <div align="center">
   <p><b>Unified Skill Icons</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,vite,tailwind,nodejs,express,mongodb,flask,mysql,azure,git,github,postman,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,vite,tailwind,nodejs,express,mongodb,postgres,mysql,flask,azure,git,github,postman,vscode&perline=9" />
   </a>
 </div>
 
@@ -228,7 +241,7 @@ My backend development experience includes designing APIs and application servic
                          ▼
               ╭─────────────────────╮
               │ 🗄️ DATABASE         │
-              │ MongoDB / MySQL     │
+              │ PostgreSQL / MongoDB / MySQL │
               ╰──────────┬──────────╯
                          │
                          ▼
@@ -396,7 +409,7 @@ My backend development experience includes designing APIs and application servic
 
 A web-based stall booking platform designed to simplify stall discovery, booking, and management.
 
-**Technologies:** React, Vite, MongoDB, Spring Boot
+**Technologies:** React, Vite, MongoDB, PostgreSQL concepts, Spring Boot
 
 **Key Areas:**
 
@@ -596,7 +609,7 @@ Alongside application development, I continuously strengthen my fundamentals in:
 | 🧪 API Testing        | Postman                                         |
 | 🌐 Frontend           | React, Vite, Tailwind                           |
 | ⚙️ Backend            | Node.js, Express, Django, Flask, Spring Boot    |
-| 🗄️ Database           | MongoDB, MySQL                                  |
+| 🗄️ Database           | PostgreSQL, MongoDB, MySQL                                  |
 | 🤖 AI/ML              | PyTorch, YOLOv9, OpenCV                         |
 | ☁️ Cloud              | Azure, Oracle Cloud, Vercel                     |
 | 📦 Package Management | npm                                             |
@@ -787,7 +800,7 @@ I am interested in working on products where software engineering, scalable arch
                                   ▼
                            🗄️ DATA SYSTEMS
                                   │
-                         MongoDB / MySQL
+                         PostgreSQL / MongoDB / MySQL
                                   │
                                   ▼
                            ☁️ DEPLOYMENT
