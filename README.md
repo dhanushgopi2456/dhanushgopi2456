@@ -202,57 +202,9 @@ My backend development experience includes designing APIs and application servic
 　　　　　　　　🔐 **BACKEND REQUEST FLOW**
 ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 
-```text
-                         👤
-                    👤 CLIENT
-                         │
-                         ▼
-              ╭─────────────────────╮
-              │ 🌐 FRONTEND         │
-              │ React + TypeScript  │
-              ╰──────────┬──────────╯
-                         │
-                    🔗 API REQUEST
-                         │
-                         ▼
-              ╭─────────────────────╮
-              │ 🚀 REST API         │
-              │ GET • POST • PUT    │
-              │ DELETE              │
-              ╰──────────┬──────────╯
-                         │
-                         ▼
-        ┌─────────────────────────────────┐
-        │ ⚙️ EXPRESS.JS MIDDLEWARE        │
-        │                                 │
-        │ 🔑 Authentication               │
-        │ 🛡️ Authorization                │
-        │ ✅ Validation                   │
-        │ 🚨 Error Handling               │
-        └────────────────┬────────────────┘
-                         │
-                         ▼
-              ╭─────────────────────╮
-              │ 🧠 BUSINESS LOGIC   │
-              │ Controllers +       │
-              │ Services             │
-              ╰──────────┬──────────╯
-                         │
-                         ▼
-              ╭─────────────────────╮
-              │ 🗄️ DATABASE         │
-              │ PostgreSQL / MongoDB / MySQL │
-              ╰──────────┬──────────╯
-                         │
-                         ▼
-              ╭─────────────────────╮
-              │ 📦 JSON RESPONSE    │
-              │ Data + Status       │
-              ╰──────────┬──────────╯
-                         │
-                         ▼
-                    🎨 UI UPDATE
-```
+<p align="center">
+  <img src="./profile-readme-assets/backend-request-flow.svg" alt="Animated backend request flowchart" width="100%" />
+</p>
 
 ✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
 　　　　　　　⚡ **SECURE • SCALABLE • MODULAR**
@@ -279,56 +231,9 @@ My backend development experience includes designing APIs and application servic
 ║　　　　　　　👁️ **COMPUTER VISION PIPELINE**　　　　　   　║
 ╚══════════════════════════════════════════════════════════╝
 
-```text
-                       📷
-                IMAGE / VIDEO INPUT
-                       │
-                       ▼
-              ┌───────────────────┐
-              │ 🧹 PREPROCESSING  │
-              │ Resize • Normalize│
-              └─────────┬─────────┘
-                        │
-                        ▼
-              ┌───────────────────┐
-              │ 🎞️ FRAME          │
-              │ TRANSFORMATION    │
-              └─────────┬─────────┘
-                        │
-                        ▼
-              ┌───────────────────┐
-              │ 🧠 YOLOv9 MODEL   │
-              │ ⚡ PyTorch        │
-              └─────────┬─────────┘
-                        │
-                        ▼
-          ┌─────────────────────────────┐
-          │ 🎯 OBJECT DETECTION         │
-          │                             │
-          │ 📦 Bounding Boxes           │
-          │ 🏷️ Class Labels             │
-          │ 📊 Confidence Scores        │
-          └─────────────┬───────────────┘
-                        │
-                        ▼
-              ┌───────────────────┐
-              │ 👁️ OPENCV         │
-              │ Draw • Track      │
-              │ Annotate          │
-              └─────────┬─────────┘
-                        │
-                        ▼
-              ┌───────────────────┐
-              │ 🌐 FLASK          │
-              │ WEB APPLICATION   │
-              └─────────┬─────────┘
-                        │
-                        ▼
-                  ┌───────────┐
-                  │ ✅ RESULT  │
-                  │ 🎯 DETECTED│
-                  └───────────┘
-```
+<p align="center">
+  <img src="./profile-readme-assets/computer-vision-pipeline.svg" alt="Computer vision pipeline flowchart" width="100%" />
+</p>
 
 🚀 **YOLOv9 + PyTorch + OpenCV + Flask** 🚀
 
@@ -548,53 +453,9 @@ Alongside application development, I continuously strengthen my fundamentals in:
 │　　　　　　🚀 **SOFTWARE DEVELOPMENT LIFECYCLE**　　　　　 │
 ╰──────────────────────────────────────────────────────────╯
 
-```text
-                         💡 IDEA
-                           │
-                           ▼
-                 🔍 REQUIREMENT ANALYSIS
-                           │
-                           ▼
-                 🏗️ SYSTEM ARCHITECTURE
-                           │
-                           ▼
-                 🎨 UI + DATABASE DESIGN
-                           │
-                           ▼
-                      💻 DEVELOPMENT
-                  ┌────────┴────────┐
-                  ▼                 ▼
-             🎨 FRONTEND       ⚙️ BACKEND
-             React / TS       Node / Express
-                  │                 │
-                  └────────┬────────┘
-                           ▼
-                    🔗 API INTEGRATION
-                           │
-                           ▼
-                       🧪 TESTING
-                           │
-                           ▼
-                  🐞 DEBUGGING & FIXES
-                           │
-                           ▼
-                       🔐 SECURITY
-                           │
-                           ▼
-                    ⚡ OPTIMIZATION
-                           │
-                           ▼
-                    🔀 GIT / GITHUB
-                           │
-                           ▼
-                      🚀 DEPLOYMENT
-                           │
-                           ▼
-                  📈 MONITOR & IMPROVE
-                           │
-                           ▼
-                      🎯 PRODUCTION
-```
+<p align="center">
+  <img src="./profile-readme-assets/software-development-lifecycle.svg" alt="Software development lifecycle flowchart" width="100%" />
+</p>
 
 💡 **BUILD** → 🧪 **TEST** → 🚀 **SHIP** → 📈 **IMPROVE**
 
@@ -679,37 +540,9 @@ My projects generally focus on:
 　　　　　　🚀 **2026 ENGINEERING ROADMAP**
 ✨ ═════════════════════════════════════════════════════ ✨
 
-```text
-                         🧑‍💻
-                  FULL-STACK ENGINEERING
-                         │
-          ┌──────────────┼──────────────┐
-          ▼              ▼              ▼
-     ⚙️ BACKEND     🏗️ SYSTEM       🎨 FRONTEND
-     ARCHITECTURE     DESIGN          ENGINEERING
-          │              │
-          ▼              ▼
-     🔗 MICROSERVICES   🌐 DISTRIBUTED
-        + APIs            SYSTEMS
-          │              │
-          └───────┬──────┘
-                  ▼
-          ☁️ CLOUD & DEVOPS
-                  │
-          ┌───────┴────────┐
-          ▼                ▼
-       🔄 CI/CD        📦 CONTAINERS
-          │                │
-          └───────┬────────┘
-                  ▼
-             🤖 AI / ML / CV
-                  │
-                  ▼
-          🧠 INTELLIGENT SYSTEMS
-                  │
-                  ▼
-             🚀 PRODUCTION
-```
+<p align="center">
+  <img src="./profile-readme-assets/engineering-roadmap.svg" alt="2026 engineering roadmap flowchart" width="100%" />
+</p>
 
 🌱 **LEARN** → 🛠️ **BUILD** → 🧪 **TEST** → ☁️ **DEPLOY** → 📈 **SCALE**
 
@@ -749,33 +582,9 @@ I am particularly interested in opportunities where I can contribute to **real-w
 
 ### Areas of Interest
 
-```text
-                 💻 FULL-STACK DEVELOPMENT
-                           │
-                           ▼
-                    ⚙️ BACKEND ENGINEERING
-                           │
-                           ▼
-                    🟢 MERN / TYPESCRIPT
-                           │
-                           ▼
-                    🔗 REST API DEVELOPMENT
-                           │
-                           ▼
-                      🏗️ SYSTEM DESIGN
-                           │
-                           ▼
-                       ☁️ CLOUD & DEVOPS
-                           │
-                           ▼
-                       🤖 AI / ML
-                           │
-                           ▼
-                    👁️ COMPUTER VISION
-                           │
-                           ▼
-                      🚀 PRODUCTION
-```
+<p align="center">
+  <img src="./profile-readme-assets/career-focus.svg" alt="Career areas of interest flowchart" width="100%" />
+</p>
 
 I am interested in working on products where software engineering, scalable architecture, automation, and intelligent systems come together.
 
@@ -783,33 +592,9 @@ I am interested in working on products where software engineering, scalable arch
 
 ## 📊 Engineering Skill Map
 
-```text
-                         🧑‍💻 SOFTWARE ENGINEERING
-                                  │
-              ┌───────────────────┼───────────────────┐
-              │                   │                   │
-              ▼                   ▼                   ▼
-        🎨 FRONTEND           ⚙️ BACKEND          🤖 AI / ML
-              │                   │                   │
-        React / Vite        Node / Express       PyTorch
-        TypeScript          REST APIs             YOLOv9
-        Tailwind            Authentication        OpenCV
-        Redux               RBAC                  NumPy
-              │                   │                   │
-              └───────────────────┼───────────────────┘
-                                  ▼
-                           🗄️ DATA SYSTEMS
-                                  │
-                         PostgreSQL / MongoDB / MySQL
-                                  │
-                                  ▼
-                           ☁️ DEPLOYMENT
-                                  │
-                         Vercel / Cloud
-                                  │
-                                  ▼
-                           🚀 PRODUCTION
-```
+<p align="center">
+  <img src="./profile-readme-assets/engineering-skill-map.svg" alt="Engineering skill map flowchart" width="100%" />
+</p>
 
 ---
 
