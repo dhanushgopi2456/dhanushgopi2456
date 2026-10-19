@@ -323,7 +323,7 @@ Key Areas:
 - Technical practice and preparation
 - Backend API development
   
-**Repository** : github.com/dhanushgopi2456/interview-prep-kit <br>
+**Repository** : [github.com/dhanushgopi2456/interview-prep-kit](https://github.com/dhanushgopi2456/interview-prep-kit) <br>
 **Live Demo** : Add the deployed frontend URL here when available.
 
 ### 🚛 HOS Route Planner & ELD Log Generator
