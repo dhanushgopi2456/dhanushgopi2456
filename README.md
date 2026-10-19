@@ -341,7 +341,7 @@ A route-planning application focused on commercial driver Hours-of-Service workf
 * PostgreSQL data management
 * Cloud deployment
 
-**Repository** : [github.com/dhanushgopi2456/interview-prep-kit](https://github.com/dhanushgopi2456/interview-prep-kit) <br>
+**Repository** : [github.com/dhanushgopi2456/hos-route-planner](https://github.com/dhanushgopi2456/hos-route-planner) <br>
 
 ---
 
