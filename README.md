@@ -311,7 +311,7 @@ My backend development experience includes designing APIs and application servic
 
 ## 🧪 Additional Projects & Development Experience
 
-###🎯 Interview Prep Kit
+### 🎯 Interview Prep Kit
 An interview-preparation project designed to help candidates prepare for technical interviews with company-focused research and AI-assisted practice.
 
 **Technologies**: Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Gemini API
@@ -322,8 +322,8 @@ Key Areas:
 - AI-assisted interview question generation
 - Technical practice and preparation
 - Backend API development
-Repository: github.com/dhanushgopi2456/interview-prep-kit
-Live Demo: Add the deployed frontend URL here when available.
+**Repository**: github.com/dhanushgopi2456/interview-prep-kit
+**Live Demo**: Add the deployed frontend URL here when available.
 
 ### 🚛 HOS Route Planner & ELD Log Generator
 
