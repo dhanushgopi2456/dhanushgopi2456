@@ -342,6 +342,7 @@ A route-planning application focused on commercial driver Hours-of-Service workf
 * Cloud deployment
 
 **Repository** : [github.com/dhanushgopi2456/hos-route-planner](https://github.com/dhanushgopi2456/hos-route-planner) <br>
+**Live Demo** : https://frontend-chi-peach-28.vercel.app
 
 ---
 
