@@ -137,6 +137,7 @@ I focus on building software that combines **good user experience with reliable 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Keywords:** PostgreSQL, SQL, relational databases, schema design, tables, primary keys, foreign keys, joins, aggregate functions, subqueries, indexes, constraints, normalization, transactions, CRUD operations, query optimization, database design.
 
