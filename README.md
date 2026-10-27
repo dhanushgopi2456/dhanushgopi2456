@@ -25,7 +25,7 @@
 
 > **Software Engineer & Full-Stack MERN Specialist**
 I am a passionate Software Engineer specializing in Full-Stack Development (MERN Stack) and AI/ML Engineering, with a strong foundation in computer science, problem-solving, and software design, backed by an academic CGPA of 9.04/10.
-I enjoy building scalable web applications, robust RESTful APIs, efficient database-driven systems, and intelligent AI-powered solutions.
+I enjoy building scalable web applications, robust RESTful APIs, efficient database-driven systems, and intelligent AI-powered solutions.My technical approach focuses on clean code, modular architecture, responsive user interfaces, secure application development, and performance optimization. From designing intuitive frontends to developing reliable backend services and integrating machine learning models, I strive to transform ideas and real-world requirements into practical, maintainable software solutions.
 
 
 
