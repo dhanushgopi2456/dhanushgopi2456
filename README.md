@@ -666,7 +666,7 @@ I am interested in working on products where software engineering, scalable arch
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:238636&height=3&section=footer" width="100%" alt="Footer divider"/>
 
   <p>
-    <b>Thanks for visiting — see you in the next project 👋</b>
+    <b>Thanks for visiting see you in the next project 👋</b>
   </p>
 
 </div>
