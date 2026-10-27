@@ -633,7 +633,7 @@ I am interested in working on products where software engineering, scalable arch
     Explore my repositories, discover my projects, and connect with me.
   </p>
 
-  <a href="https://github.com/dhanushgopi2456?tab=repositories">
+  <a href="https://github.com/stars/dhanushgopi2456/lists/my-stack">
     <img src="https://img.shields.io/badge/Explore_My_Projects-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
   </a>
 
