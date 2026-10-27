@@ -618,16 +618,60 @@ I am interested in working on products where software engineering, scalable arch
 
 <div align="center">
 
-### ⭐ Thanks for visiting my GitHub profile
 
-If you find my projects interesting, feel free to explore the repositories and connect with me.
+<!-- ========== PROFILE FOOTER ========== -->
 
-<br>
+<div align="center">
 
-<i>"Simplicity is prerequisite for reliability. Continuous innovation through clean software engineering."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub+profile!;Explore+my+projects+and+let%27s+connect!;Building+%7C+Learning+%7C+Innovating" alt="Animated footer text" />
 
-<br><br>
+  <br/>
 
-**🚀 Build with purpose · Learn continuously · Ship consistently**
+  <p>
+    Thanks for stopping by! ⭐
+    <br/>
+    Explore my repositories, discover my projects, and connect with me.
+  </p>
+
+  <a href="https://github.com/dhanushgopi2456?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Projects-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  </a>
+
+  <a href="https://github.com/dhanushgopi2456">
+    <img src="https://img.shields.io/badge/Follow_Me-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=dhanushgopi2456&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+
+  <br/><br/>
+
+  <h3>💡 My Engineering Philosophy</h3>
+
+  <p>
+    <i>"Simplicity is the ultimate sophistication."</i>
+  </p>
+
+  <p>
+    🔥 <b>Build with purpose</b>
+    &nbsp; • &nbsp;
+    📚 <b>Learn continuously</b>
+    &nbsp; • &nbsp;
+    🚀 <b>Ship consistently</b>
+  </p>
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:238636&height=3&section=footer" width="100%" alt="Footer divider"/>
+
+  <p>
+    <b>Thanks for visiting — see you in the next project! 👋</b>
+  </p>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:1F6FEB,100:8957E5&height=120&section=footer" width="100%" alt="Animated gradient wave footer"/>
+
+<!-- ========== END PROFILE FOOTER ========== -->
+
