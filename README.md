@@ -48,6 +48,8 @@
 
 ## 🟣 About Me
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=58A6FF&center=true&vcenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+MERN+Specialist;AI%2FML+%26+Computer+Vision+Enthusiast;CGPA+9.04+%2F+10" alt="Animated typing intro" />
+
 > **Software Engineer & Full-Stack MERN Specialist**
 I am a passionate Software Engineer specializing in **MERN Stack Development and AI/ML**, with a strong foundation in problem-solving and software design, backed by a **CGPA of 9.04/10**. I build scalable web applications, robust APIs, and intelligent solutions with a focus on clean code, performance, and user experience.
 
@@ -494,6 +496,23 @@ Alongside application development, I continuously strengthen my fundamentals in:
 
 ## 📈 GitHub Activity & Achievements
 
+<div align="center">
+
+### 📊 Live GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,161B22&title_color=FF9FF3&text_color=FFFFFF"
+    alt="GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=radical&hide_border=true&bg_color=0D1117,161B22&title_color=FF9FF3&text_color=FFFFFF"
+    alt="Top Languages"
+    width="48%"
+  />
+</p>
+
 ### 📌 Contribution Activity Graph
 
 <p align="center">
@@ -513,6 +532,8 @@ Alongside application development, I continuously strengthen my fundamentals in:
     width="100%"
   />
 </p>
+
+</div>
 
 ---
 
