@@ -7,13 +7,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vcenter=true&width=700&lines=DHANUSH+GOPI+KAVALA;Full-Stack+MERN+Engineer;AI%2FML+%26+Computer+Vision+Specialist" alt="Typing SVG" />
 
-[![Education](https://img.shields.io/badge/Education-B.Tech_CSE_\(CGPA:_9.04%2F10\)-8A2BE2?style=for-the-badge\&logo=academic-cap\&logoColor=white)](https://github.com/dhanushgopi2456)
-[![Location](https://img.shields.io/badge/Location-Tadepalligudem%2C_India-4B0082?style=for-the-badge\&logo=googlemaps\&logoColor=white)](https://maps.google.com)
+[![Education](https://img.shields.io/badge/Education-B.Tech_CSE_(CGPA:_9.04/10)-8A2BE2?style=for-the-badge&logo=academic-cap&logoColor=white)](https://github.com/dhanushgopi2456)
+[![Location](https://img.shields.io/badge/Location-Tadepalligudem,_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
-[![Live Website](https://img.shields.io/badge/Portfolio-Live_Website-6A057F?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://dhanush-new-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhanush-gopi-kavala/)
-[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gopidhanush615@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dhanushgopi2456)
+[![Live Website](https://img.shields.io/badge/Portfolio-Live_Website-6A057F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhanush-new-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-gopi-kavala/)
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopidhanush615@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
 
 </div>
 
@@ -48,7 +48,11 @@
 
 ## 🟣 About Me
 
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=58A6FF&center=true&vcenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack+MERN+Specialist;AI%2FML+%26+Computer+Vision+Enthusiast;CGPA+9.04+%2F+10" alt="Animated typing intro" />
+
+</div>
 
 > **Software Engineer & Full-Stack MERN Specialist**
 I am a passionate Software Engineer specializing in **MERN Stack Development and AI/ML**, with a strong foundation in problem-solving and software design, backed by a **CGPA of 9.04/10**. I build scalable web applications, robust APIs, and intelligent solutions with a focus on clean code, performance, and user experience.
@@ -128,31 +132,31 @@ I focus on building software that combines **good user experience with reliable 
 
 ### 💻 Languages & Core Engineering
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend Engineering
 
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### ⚙️ Backend & Database Systems
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🗃️ SQL & Relational Database Keywords
 
@@ -166,11 +170,11 @@ I focus on building software that combines **good user experience with reliable 
 
 ### ☁️ Cloud, DevOps & Developer Tooling
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <div align="center">
   <p><b>Unified Skill Icons</b></p>
@@ -221,17 +225,11 @@ My backend development experience includes designing APIs and application servic
 
 ### 🔗 Backend Request Flow
 
-✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
-        🔐 **BACKEND REQUEST FLOW**
-✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
-
 <p align="center">
-  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/backend-request-flow.svg" alt="Animated backend request flowchart" width="100%" />
+  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/backend-request-flow.svg" alt="Backend request flowchart" width="100%" />
 </p>
 
-✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
-       ⚡ **SECURE • SCALABLE • MODULAR**
-✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
+<p align="center"><strong>⚡ SECURE • SCALABLE • MODULAR</strong></p>
 
 ---
 
@@ -250,15 +248,11 @@ My backend development experience includes designing APIs and application servic
 
 ## 👁️ Computer Vision Pipeline
 
-╔══════════════════════════════════════════════════════════╗
-║       👁️ **COMPUTER VISION PIPELINE**         ║
-╚══════════════════════════════════════════════════════════╝
-
 <p align="center">
   <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/computer-vision-pipeline.svg" alt="Computer vision pipeline flowchart" width="100%" />
 </p>
 
-🚀 **YOLOv9 + PyTorch + OpenCV + Flask** 🚀
+<p align="center"><strong>🚀 YOLOv9 + PyTorch + OpenCV + Flask</strong></p>
 
 ---
 
@@ -397,15 +391,15 @@ Key Areas:
 
 * [<img src="https://img.shields.io/badge/Oracle-DevOps_Professional_2025-F80000?style=flat-square&logo=oracle&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Oracle_Devops_Certificate.pdf) **[Oracle Cloud Infrastructure 2025 DevOps Professional](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Oracle_Devops_Certificate.pdf)** *(July 2025)*
 
-* [<img src="https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_\(AI--900\)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf) **[Microsoft Azure AI Fundamentals (AI-900)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)** *(May 2024)*
+* [<img src="https://img.shields.io/badge/Microsoft-Azure_AI_Fundamentals_(AI-900)-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf) **[Microsoft Azure AI Fundamentals (AI-900)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Azure%20Ai%20fundamentals%20%20Global%20Certificate%20by%20Microsoft.pdf)** *(May 2024)*
 
 ### 🏢 Enterprise Systems & Platforms
 
 * [<img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf) **[Salesforce Agentforce Specialist](https://github.com/dhanushgopi2456/My_Certifications/blob/main/Salesforce%20Certified%20AgentForce%20Specialist.pdf)** *(Dec 2025)*
 
-* [<img src="https://img.shields.io/badge/ServiceNow-System_Administrator_\(CSA\)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CSA.pdf) **[ServiceNow Certified System Administrator (CSA)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCIS.pdf)** *(Sep 2025)*
+* [<img src="https://img.shields.io/badge/ServiceNow-System_Administrator_(CSA)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CSA.pdf) **[ServiceNow Certified System Administrator (CSA)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCIS.pdf)** *(Sep 2025)*
 
-* [<img src="https://img.shields.io/badge/ServiceNow-Application_Developer_\(CAD\)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CAD.pdf) **[ServiceNow Certified Application Developer (CAD)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCAD.pdf)** *(Oct 2025)*
+* [<img src="https://img.shields.io/badge/ServiceNow-Application_Developer_(CAD)-293E40?style=flat-square&logo=servicenow&logoColor=white" />](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNow%20CAD.pdf) **[ServiceNow Certified Application Developer (CAD)](https://github.com/dhanushgopi2456/My_Certifications/blob/main/ServiceNowCAD.pdf)** *(Oct 2025)*
 
 ### 🎓 Academic & Algorithms
 
@@ -464,15 +458,11 @@ Alongside application development, I continuously strengthen my fundamentals in:
 
 ## 🚀 Software Development Lifecycle
 
-╭──────────────────────────────────────────────────────────╮
-│      🚀 **SOFTWARE DEVELOPMENT LIFECYCLE**      │
-╰──────────────────────────────────────────────────────────╯
-
 <p align="center">
   <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/engineering-lifecycle.svg" alt="Software development lifecycle flowchart" width="100%" />
 </p>
 
-💡 **BUILD** → 🧪 **TEST** → 🚀 **SHIP** → 📈 **IMPROVE**
+<p align="center"><strong>💡 BUILD → 🧪 TEST → 🚀 SHIP → 📈 IMPROVE</strong></p>
 
 ---
 
@@ -501,36 +491,20 @@ Alongside application development, I continuously strengthen my fundamentals in:
 ### 📊 Live GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117,161B22&title_color=FF9FF3&text_color=FFFFFF"
-    alt="GitHub Stats"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=radical&hide_border=true&bg_color=0D1117,161B22&title_color=FF9FF3&text_color=FFFFFF"
-    alt="Top Languages"
-    width="48%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117,161b22&title_color=ff9ff3&text_color=ffffff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117,161b22&title_color=ff9ff3&text_color=ffffff" alt="Top Languages" width="48%" />
 </p>
 
 ### 📌 Contribution Activity Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph-kappa-nine.vercel.app/graph?username=dhanushgopi2456&theme=github-compact&area=false&hide_border=true&custom_title=Dhanush%20Gopi%20Kavala's%20Contribution%20Activity"
-    alt="Dhanush Gopi Kavala's GitHub Contribution Activity"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph-kappa-nine.vercel.app/graph?username=dhanushgopi2456&theme=github-compact&area=false&hide_border=true&custom_title=Dhanush%20Gopi%20Kavala's%20Contribution%20Activity" alt="Dhanush Gopi Kavala's GitHub Contribution Activity" width="100%" />
 </p>
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://dhanush-github-trophies.vercel.app/api/trophies?username=dhanushgopi2456"
-    alt="GitHub Achievements"
-    width="100%"
-  />
+  <img src="https://dhanush-github-trophies.vercel.app/api/trophies?username=dhanushgopi2456" alt="GitHub Achievements" width="100%" />
 </p>
 
 </div>
@@ -570,15 +544,11 @@ My projects generally focus on:
 
 ## 🌟 2026 Engineering Roadmap
 
-✨ ═════════════════════════════════════════════════════ ✨
-      🚀 **2026 ENGINEERING ROADMAP**
-✨ ═════════════════════════════════════════════════════ ✨
-
 <p align="center">
   <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/2026-engineering-roadmap.svg" alt="2026 engineering roadmap flowchart" width="100%" />
 </p>
 
-🌱 **LEARN** → 🛠️ **BUILD** → 🧪 **TEST** → ☁️ **DEPLOY** → 📈 **SCALE**
+<p align="center"><strong>🌱 LEARN → 🛠️ BUILD → 🧪 TEST → ☁️ DEPLOY → 📈 SCALE</strong></p>
 
 ---
 
@@ -650,10 +620,10 @@ I am interested in working on products where software engineering, scalable arch
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-gopidhanush615%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gopidhanush615@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushgopi2456-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhanush-gopi-kavala/)
-[![GitHub](https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dhanushgopi2456)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Dhanush_Gopi_Kavala-8A2BE2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://dhanush-new-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-gopidhanush615@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopidhanush615@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushgopi2456-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-gopi-kavala/)
+[![GitHub](https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Dhanush_Gopi_Kavala-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhanush-new-portfolio.vercel.app/)
 
 </div>
 
