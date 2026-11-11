@@ -483,32 +483,27 @@ Alongside application development, I continuously strengthen my fundamentals in:
 | 🧠 Development | OOP, REST APIs, MVC, RBAC |
 
 ---
+## 📌 Contribution Activity Graph
 
-## 📈 GitHub Activity & Achievements
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph-kappa-nine.vercel.app/graph?username=dhanushgopi2456&theme=github-compact&area=false&hide_border=true&custom_title=Dhanush%20Gopi%20Kavala's%20Contribution%20Activity"
+    alt="Dhanush Gopi Kavala's GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
 
-<div align="center">
+---
 
-### 📊 Live GitHub Stats
+## 🏆 GitHub Achievements
 
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/dhanushgopi2456?label=Followers&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456?tab=followers)
-[![Public repos](https://img.shields.io/github/repo-count/dhanushgopi2456?label=Repositories&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456?tab=repositories)
-[![Stars](https://img.shields.io/github/stars/dhanushgopi2456?label=Stars&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456?tab=stars)
-[![Contributions](https://img.shields.io/badge/Contributions-Active-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
-
-</div>
-
-### 🏆 GitHub Achievements
-
-<div align="center">
-
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=dhanushgopi2456&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/dhanushgopi2456)
-[![GitHub Badges](https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
-
-</div>
-
-</div>
+<p align="center">
+  <img
+    src="https://dhanush-github-trophies.vercel.app/api/trophies?username=dhanushgopi2456"
+    alt="GitHub Achievements"
+    width="100%"
+  />
+</p>
 
 ---
 
@@ -531,25 +526,29 @@ My projects generally focus on:
 
 ---
 
-## 🎯 Current Focus & Roadmap
+## 🎯 Current Focus & Roadmap `<Active 2026 Goals>`
 
-| 📖 Currently Learning | 🚀 Currently Building |
-| :--- | :--- |
-| Advanced System Design & Distributed Architecture<br>Deep Learning Pipeline Optimization with PyTorch<br>Microservices Patterns & Message Queues<br>Advanced TypeScript & Backend Architecture | Scalable MERN Microservices<br>Real-Time WebSocket Applications<br>Automated CI/CD Pipelines<br>Containerized Applications<br>Computer Vision Inference Systems |
+| 📖 Currently Learning                                                                                                                                                                                      | 🚀 Currently Building                                                                                                                                                          |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ▫️ Advanced System Design & Distributed Architecture<br>▫️ Deep Learning Pipeline Optimization with PyTorch<br>▫️ Microservices Patterns & Message Queues<br>▫️ Advanced TypeScript & Backend Architecture | ▫️ Scalable MERN Microservices<br>▫️ Real-Time WebSocket Applications<br>▫️ Automated CI/CD Pipelines<br>▫️ Containerized Applications<br>▫️ Computer Vision Inference Systems |
 
-| 🔬 Currently Exploring | 💼 Open To Opportunities |
-| :--- | :--- |
-| Agentic AI Systems & Multi-Modal LLM Applications<br>Cloud-Native Infrastructure<br>AI-assisted Development Workflows<br>High-Performance Web Applications | Full-Time Software Engineering Roles (SDE)<br>Full-Stack / MERN Development<br>Backend Engineering<br>AI/ML & Computer Vision Engineering<br>Open-Source Collaborations |
+| 🔬 Currently Exploring                                                                                                                                                 | 💼 Open To Opportunities                                                                                                                                                               |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ▫️ Agentic AI Systems & Multi-Modal LLM Applications<br>▫️ Cloud-Native Infrastructure<br>▫️ AI-assisted Development Workflows<br>▫️ High-Performance Web Applications | ▫️ Full-Time Software Engineering Roles (SDE)<br>▫️ Full-Stack / MERN Development<br>▫️ Backend Engineering<br>▫️ AI/ML & Computer Vision Engineering<br>▫️ Open-Source Collaborations |
 
 ---
 
 ## 🌟 2026 Engineering Roadmap
 
+✨ ═════════════════════════════════════════════════════ ✨
+　　　　　　🚀 **2026 ENGINEERING ROADMAP**
+✨ ═════════════════════════════════════════════════════ ✨
+
 <p align="center">
   <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/2026-engineering-roadmap.svg" alt="2026 engineering roadmap flowchart" width="100%" />
 </p>
 
-<p align="center"><strong>🌱 LEARN → 🛠️ BUILD → 🧪 TEST → ☁️ DEPLOY → 📈 SCALE</strong></p>
+🌱 **LEARN** → 🛠️ **BUILD** → 🧪 **TEST** → ☁️ **DEPLOY** → 📈 **SCALE**
 
 ---
 
@@ -607,9 +606,9 @@ I am interested in working on products where software engineering, scalable arch
 
 <div align="center">
 
-| 🧠 THINK | 🛠️ BUILD | 🧪 TEST | 🐞 DEBUG | 🚀 SHIP |
-| :------: | :-------: | :-----: | :------: | :-----: |
-| Understand | Implement | Validate | Improve | Deploy |
+|  🧠 THINK  | 🛠️ BUILD |  🧪 TEST | 🐞 DEBUG | 🚀 SHIP |
+| :--------: | :-------: | :------: | :------: | :-----: |
+| Understand | Implement | Validate |  Improve |  Deploy |
 
 </div>
 
@@ -621,16 +620,17 @@ I am interested in working on products where software engineering, scalable arch
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-gopidhanush615@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopidhanush615@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushgopi2456-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-gopi-kavala/)
-[![GitHub](https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Dhanush_Gopi_Kavala-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhanush-new-portfolio.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-gopidhanush615%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gopidhanush615@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanushgopi2456-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dhanush-gopi-kavala/)
+[![GitHub](https://img.shields.io/badge/GitHub-dhanushgopi2456-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dhanushgopi2456)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Dhanush_Gopi_Kavala-8A2BE2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://dhanush-new-portfolio.vercel.app/)
 
 </div>
 
 <br>
 
 <div align="center">
+
 
 <!-- ========== PROFILE FOOTER ========== -->
 
@@ -687,3 +687,4 @@ I am interested in working on products where software engineering, scalable arch
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:1F6FEB,100:8957E5&height=120&section=footer" width="100%" alt="Animated gradient wave footer"/>
 
 <!-- ========== END PROFILE FOOTER ========== -->
+
