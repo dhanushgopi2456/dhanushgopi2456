@@ -490,22 +490,23 @@ Alongside application development, I continuously strengthen my fundamentals in:
 
 ### 📊 Live GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushgopi2456&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117,161b22&title_color=ff9ff3&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushgopi2456&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117,161b22&title_color=ff9ff3&text_color=ffffff" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
 
-### 📌 Contribution Activity Graph
+[![GitHub followers](https://img.shields.io/github/followers/dhanushgopi2456?label=Followers&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456?tab=followers)
+[![Public repos](https://img.shields.io/github/repo-count/dhanushgopi2456?label=Repositories&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/dhanushgopi2456?label=Stars&style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456?tab=stars)
+[![Contributions](https://img.shields.io/badge/Contributions-Active-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph-kappa-nine.vercel.app/graph?username=dhanushgopi2456&theme=github-compact&area=false&hide_border=true&custom_title=Dhanush%20Gopi%20Kavala's%20Contribution%20Activity" alt="Dhanush Gopi Kavala's GitHub Contribution Activity" width="100%" />
-</p>
+</div>
 
 ### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://dhanush-github-trophies.vercel.app/api/trophies?username=dhanushgopi2456" alt="GitHub Achievements" width="100%" />
-</p>
+<div align="center">
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=dhanushgopi2456&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/dhanushgopi2456)
+[![GitHub Badges](https://img.shields.io/badge/GitHub-Achievements-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushgopi2456)
+
+</div>
 
 </div>
 
