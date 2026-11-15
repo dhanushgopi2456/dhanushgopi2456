@@ -541,7 +541,7 @@ My projects generally focus on:
 ## 🌟 2027 Engineering Roadmap
 
 <p align="center">
-  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/2027%20Engineer%20Roadmap.png" width="100%" />
+  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/2027%20Roadmap%20Official.png" width="100%" />
 </p>
 
 🌱 **LEARN** → 🛠️ **BUILD** → 🧪 **TEST** → ☁️ **DEPLOY** → 📈 **SCALE**
