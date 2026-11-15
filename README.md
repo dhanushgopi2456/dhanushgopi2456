@@ -593,7 +593,7 @@ I am interested in working on products where software engineering, scalable arch
 ## 📊 Engineering Skill Map
 
 <p align="center">
-  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/engineering-skill-map.svg" alt="Engineering skill map flowchart" width="100%" />
+  <img src="https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/Engineering%20Skill%20Map%202027.png" alt="Engineering skill map flowchart" width="100%" />
 </p>
 
 ---
