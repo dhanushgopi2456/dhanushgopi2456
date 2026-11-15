@@ -327,24 +327,6 @@ My backend development experience includes designing APIs and application servic
 
 ## 🧪 Additional Projects & Development Experience
 
-### 🎯 Interview Prep Kit
-
-An interview-preparation project designed to help candidates prepare for technical interviews with company-focused research and AI-assisted practice.
-
-**Technologies**: Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Gemini API
-
-Key Areas:
-- Interview preparation workflows
-- Company and hiring-page research
-- AI-assisted interview question generation
-- Technical practice and preparation
-- Backend API development
-
-**Repository** : [github.com/dhanushgopi2456/interview-prep-kit](https://github.com/dhanushgopi2456/interview-prep-kit) <br>
-**Live Demo** : https://frontend-chi-peach-28.vercel.app
-
----
-
 ### 🚛 HOS Route Planner & ELD Log Generator
 
 A route-planning application focused on commercial driver Hours-of-Service workflows.
@@ -362,6 +344,24 @@ Key Areas:
 
 **Repository** : [github.com/dhanushgopi2456/hos-route-planner](https://github.com/dhanushgopi2456/hos-route-planner) <br>
 **Live Demo** : https://hos-route-planner-ruddy.vercel.app
+
+---
+
+### 🎯 Interview Prep Kit
+
+An interview-preparation project designed to help candidates prepare for technical interviews with company-focused research and AI-assisted practice.
+
+**Technologies**: Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Gemini API
+
+Key Areas:
+- Interview preparation workflows
+- Company and hiring-page research
+- AI-assisted interview question generation
+- Technical practice and preparation
+- Backend API development
+
+**Repository** : [github.com/dhanushgopi2456/interview-prep-kit](https://github.com/dhanushgopi2456/interview-prep-kit) <br>
+**Live Demo** : https://frontend-chi-peach-28.vercel.app
 
 ---
 
