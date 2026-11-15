@@ -424,7 +424,7 @@ Alongside application development, I continuously strengthen my fundamentals in:
 * Cloud Computing
 * Cyber Security Fundamentals
 
-### DSA Areas
+### 🌟 DSA Areas
 
 ![DSA Areas Flowchart](https://github.com/dhanushgopi2456/My-All-Project-Screenshots/blob/main/DSA%20Areas%20Flowchart.png)
 
